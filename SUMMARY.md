@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [README](readme.md)
+* [Assignments](requirements.md)
+* [Schedule](schedule.md)
 

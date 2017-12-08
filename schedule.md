@@ -2,6 +2,7 @@
 
 ## Week 1: What does it mean to be born digital? 
 Lab: Website building, HTML, CSS
+
 Readings: 
 •	Klosterman, chap 1.
 •	Lepore, Jill. “What the Web Said Yesterday.” The New Yorker 19 Jan. 2015. https://www.newyorker.com/magazine/2015/01/26/cobweb
@@ -11,6 +12,7 @@ Readings:
 
 ## Week 2: Record keeping and collective memory 
 Lab: Command line 
+
 Readings: 
 •	Haskins, Ekaterina. “Between Archive and Participation: Public Memory in a Digital Age.” Rhetoric Society Quarterly, vol. 37, no. 4, 2007, pp. 401–422.
 •	Notopoulos, Katie. “Photobucket Is Holding People’s Photos For ‘Ransom.’” BuzzFeed, https://www.buzzfeed.com/katienotopoulos/photobucket-just-killed-a-chunk-of-internet-history. Accessed 22 Sept. 2017.

@@ -10,30 +10,36 @@
 
 Read for Thursday:
 * Lepore, Jill. “What the Web Said Yesterday.” The New Yorker 19 Jan. 2015. https://www.newyorker.com/magazine/2015/01/26/cobweb
-* Rumsey, chapter 1. 
-
+* Rumsey, chap 1
+* Owens, chap 1-2
 
 ### Thursday, January 11, 2018
 * Discussion 
-Lab: Website building, HTML, CSS
 
-Readings: 
-* Klosterman, chap 1.
-* Lepore, Jill. “What the Web Said Yesterday.” The New Yorker 19 Jan. 2015. https://www.newyorker.com/magazine/2015/01/26/cobweb
-* Owens, chap 1-2.
+Read for Tuesday:
+
 * Weingart, Scott. “Why We’re All Digital Now.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, http://www.themacroscope.org/?page_id=617.
-
-
-## Week 2: Record keeping and collective memory 
-### Tuesday, January 16, 2018
-
-Lab: Command line 
-
-Readings: 
 * Haskins, Ekaterina. “Between Archive and Participation: Public Memory in a Digital Age.” Rhetoric Society Quarterly, vol. 37, no. 4, 2007, pp. 401–422.
 * Notopoulos, Katie. “Photobucket Is Holding People’s Photos For ‘Ransom.’” BuzzFeed, https://www.buzzfeed.com/katienotopoulos/photobucket-just-killed-a-chunk-of-internet-history. Accessed 22 Sept. 2017.
 * Sauter, Molly. “Instant Recall.” Real Life, http://reallifemag.com/instant-recall/. 
 * Theimer, Kate. “Gaps in the Past and Gaps in the Future: Archival Silences and Social Media – #acaubc2016 Talk.” ArchivesNext, http://archivesnext.com/?p=4018. 
+
+
+## Week 2: Record keeping and collective memory 
+
+### Tuesday, January 16, 2018
+* Discussion
+
+Read for Thursday:
+* [Introduction to the Windows Command Line](https://programminghistorian.org/lessons/intro-to-powershell) (Windows people)
+* [Introduction to the Bash Command Line](https://programminghistorian.org/lessons/intro-to-bash) (Mac people)
+
+### Thursday, January 18, 2018
+* Lab: Command line 
+
+Read for Tuesday:
+
+**Paper 1: Personal Archive due Tuesday!**
 
 ## Week 3: Basics of archival theory & practice 
 Assignment: Personal Archive paper due

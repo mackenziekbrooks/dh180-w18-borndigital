@@ -3,8 +3,18 @@
 ## Week 1: What does it mean to be born digital? 
 
 ### Tuesday, January 9, 2018
+* Welcome, intros, framing
+* Getting to know you survey
+* Slides
+* Lab 1
+
+Read for Thursday:
+* Lepore, Jill. “What the Web Said Yesterday.” The New Yorker 19 Jan. 2015. https://www.newyorker.com/magazine/2015/01/26/cobweb
+* Rumsey, chapter 1. 
+
 
 ### Thursday, January 11, 2018
+* Discussion 
 Lab: Website building, HTML, CSS
 
 Readings: 
@@ -15,6 +25,8 @@ Readings:
 
 
 ## Week 2: Record keeping and collective memory 
+### Tuesday, January 16, 2018
+
 Lab: Command line 
 
 Readings: 

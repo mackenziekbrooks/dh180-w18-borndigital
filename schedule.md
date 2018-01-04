@@ -87,6 +87,9 @@ Read for Tuesday:
 
 
 ## Week 6: What makes a born digital collection?
+### Tuesday, February 13, 2018
+### Thursday, February 15, 2018
+
 Lab: Library research and resource evaluation session
 Readings: 
 * Brügger, chap 7.
@@ -95,6 +98,9 @@ Readings:
 *** Washington Break ***
 
 ## Week 7: Appraisal, collection development, and neutrality
+### Tuesday, February 27, 2018
+### Thursday, March 1, 2018
+
 Assignment: Annotated bibliography due. 
 Lab: Web scraping
 Readings: 
@@ -104,6 +110,9 @@ Readings:
 * The Programming Historian tutorials on web scraping. https://programminghistorian.org/lessons/?topic=web-scraping
 
 ## Week 8: Acquisition & ethics
+### Tuesday, March 6, 2018
+### Thursday, March 8, 2018
+
 Assignment: project proposal due.
 Lab: Twitter scraping; guest lecture from UVa graduate student (tentative).
 Readings: 
@@ -112,6 +121,9 @@ Readings:
 * Weingart, Scott. “Basic Scraping: Getting Your Data.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, http://www.themacroscope.org/?page_id=625.
 
 ## Week 9: Arrangement & description
+### Tuesday, March 13, 2018
+### Thursday, March 15, 2018
+
 Lab: Metadata, data cleanup 
 Readings:
 * Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, Dec. 2013, pp. 661–688.
@@ -119,6 +131,9 @@ Readings:
 * Owens, chap 8.
 
 ## Week 10: Access
+### Tuesday, March 20, 2018
+### Thursday, March 22, 2018
+
 Lab: project work
 Readings:
 * McGill, Andrew. “Can Twitter Fit Inside the Library of Congress?” The Atlantic, Aug. 2016. The Atlantic, https://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/.
@@ -126,9 +141,14 @@ Readings:
 * Pinsent, Ed. Conference on Web-Archiving, Part 2: Ian Milligan and His Derived Datasets. https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets. 
 
 ## Week 11: Outreach & the future of born digital archives
+### Tuesday, March 27, 2018
+### Thursday, March 29, 2018
+
 Lab: web publishing
 Readings:
 * Brügger, chap 12.
 
 ## Week 12: Conclusion
+### Tuesday, April 3, 2018
+### Thursday, April 5, 2018
 Assignments: final presentations

@@ -38,29 +38,50 @@ Read for Thursday:
 * Lab: Command line 
 
 Read for Tuesday:
-
-**Paper 1: Personal Archive due Tuesday!**
-
-## Week 3: Basics of archival theory & practice 
-Assignment: Personal Archive paper due
-Lab: Metadata 
-Readings: 
 * Bailey, Jefferson. “Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives - Archive Journal.” Archive Journal, June 2013, http://www.archivejournal.net/?p=4722.
 * Cook, Terry. “Evidence, Memory, Identity, and Community: Four Shifting Archival Paradigms.” Archival Science, vol. 13, no. 2–3, June 2013, pp. 95–120.
 * Drake, Jarrett M. “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description.” Medium, 6 Apr. 2016, https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325#.8a5icd8uw.
 
-## Week 4: Visiting Special Collections & Archives 
-Lab: Special Collections visit with presentation by Tom Camden and separate hands-on work session.
-Readings: 
+**Paper 1: Personal Archive due Tuesday!**
+
+## Week 3: Basics of archival theory & practice 
+
+### Tuesday, January 23, 2018
+* Assignment: Personal Archive paper due
+* Discussion
+
+### Thursday, January 25, 2018
+
+Lab: Metadata! 
+
+Read for Tuesday: 
 * Dacs. SAA Technical Subcommittee on Describing Archives: A Content Standard, 2017. GitHub, https://github.com/saa-ts-dacs/dacs.
 * Minnesota Historical Society. Collections Management Toolkit. http://www2.mnhs.org/library/findaids/CMToolkit/CMToolkit.htm
 
-## Week 5: Digital objects 
-Assignment: Collection Processing Plan due.
-Lab: File formats 
-Readings:
+## Week 4: Visiting Special Collections & Archives 
+### Tuesday, January 30, 2018
+Visit to Special Collections and Archives (Leyburn, Lower Level 1). Presentation by Tom Camden, Head of Special Collections and Archives.
+
+### Thursday, February 1, 2018
+Lab: work in Special Collections on processing plan assignment.
+
+Read for Tuesday: 
 * Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf. (Chap. 2)
 * Owens, chap 3. 
+
+**Assignment 2 due Thursday**
+
+## Week 5: Digital objects 
+### Tuesday, February 6, 2018
+* Discussion (student led)
+* 
+
+### Thursday, February 8, 2018
+Assignment: Collection Processing Plan due
+Lab: File formats 
+
+Readings:
+
 
 ## Week 6: What makes a born digital collection?
 Lab: Library research and resource evaluation session

@@ -91,7 +91,7 @@ Readings:
 * Brügger, chap 7.
 * Owen, chaps 4-5.
 
-~ Washington Break ~
+*** Washington Break ***
 
 ## Week 7: Appraisal, collection development, and neutrality
 Assignment: Annotated bibliography due. 

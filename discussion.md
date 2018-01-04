@@ -5,10 +5,8 @@ From the list below and your own research, select two articles for the class to 
 
 You are encouraged to match a scholarly article with a news article or blog post on a similar topic. Articles must be approved one week prior to discussion.
 
-You are responsible for generating questions and leading discussion for 30 minutes. 
+You are responsible for generating questions and leading discussion for 30 minutes. Be creative! Think about the types of classroom experiences that you have useful or exciting.
 
- 
- 
   
 # Week 5 / February 6
 Students:

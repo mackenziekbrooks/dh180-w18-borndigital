@@ -1,8 +1,9 @@
 # Summary
 
 * [README](README.md)
-* [Assignments](assignments.md)
 * [Schedule](schedule.md)
-* [Labs](labs.md)
+* [Assignments](assignments.md)
 * [Discussion](discussion.md)
+* [Labs](labs.md)
+
 

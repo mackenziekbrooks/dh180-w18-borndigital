@@ -29,7 +29,3 @@ This course will explore the concept of “born digital” archives and our rela
 * write interpretive studies of specific texts and/or cultural artifacts.
 
 
-
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.

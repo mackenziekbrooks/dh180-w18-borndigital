@@ -1,6 +1,6 @@
 # Summary
 
 * [README](README.md)
-* [Assignments](requirements.md)
+* [Assignments](assignments.md)
 * [Schedule](schedule.md)
 

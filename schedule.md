@@ -74,13 +74,15 @@ Read for Tuesday:
 ## Week 5: Digital objects 
 ### Tuesday, February 6, 2018
 * Discussion (student led)
-* 
+
+Read for Thursday: 
+  
 
 ### Thursday, February 8, 2018
 Assignment: Collection Processing Plan due
 Lab: File formats 
 
-Readings:
+Read for Tuesday: 
 
 
 ## Week 6: What makes a born digital collection?

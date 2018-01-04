@@ -68,6 +68,7 @@ Lab: work in Special Collections on processing plan assignment.
 Read for Tuesday: 
 * Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf. (Chap. 2)
 * Owens, chap 3. 
+* Student choice
 
 **Assignment 2 due Thursday**
 

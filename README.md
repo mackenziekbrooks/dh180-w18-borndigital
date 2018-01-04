@@ -28,4 +28,19 @@ This course will explore the concept of “born digital” archives and our rela
 * demonstrate competency in analysis and interpretation of texts and/or cultural artifacts; and
 * write interpretive studies of specific texts and/or cultural artifacts.
 
+## Policies & accommodations: 
+* I allow two “free passes” for absences or late assignments. You must declare the pass before class begins or before the assignment is due for it to count. Unexcused absences or late assignments will result in the reduction of your final grade by one percentage point.  
+* Proper citations and attributions are mandatory in all assignments. Academic integrity is especially important as we will encounter and reference a variety of publications in this class, not just peer-reviewed academic sources.  
+* Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the designated Student Affairs administrator. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the term [two days in the Spring Term] and schedule a meeting outside of class time to discuss accommodations. It is the student's responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. It is strongly recommended that students with accommodations for test-taking remind the faculty member(s) teaching this course and make arrangements at least a week before the date of each test or exam.
+
+## Readings:
+Most readings will be available online through the library’s subscriptions or open access. The following represent core texts for the course:
+
+Brügger, Niels, and Ralph Schroeder. _The Web as History: Using Web Archives to Understand  the Past and the Present_. UCL Press, 2017, http://discovery.ucl.ac.uk/1542998/1/The-Web-as-History.pdf.
+
+Klosterman, Chuck. _But What If We’re Wrong?: Thinking about the Present as If It Were the Past_. Blue Rider Press, 2017.
+
+Owens, Trevor. _Theory and Craft of Digital Preservation_. Johns Hopkins University Press, forthcoming. https://osf.io/preprints/lissa/5cpjt
+
+Rumsey, Abby Smith. When We Are No More. Bloomsbury Press, 2016. (purchase required)
 

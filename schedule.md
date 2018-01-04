@@ -1,6 +1,10 @@
 # Schedule
 
 ## Week 1: What does it mean to be born digital? 
+
+### Tuesday, January 9, 2018
+
+### Thursday, January 11, 2018
 Lab: Website building, HTML, CSS
 
 Readings: 

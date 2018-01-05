@@ -8,7 +8,6 @@ Did you know that W&L offers unlimited cloud storage while you're a student? We 
 The easiest way to use Box is to download Box Drive. This makes your Box folders act like another folder on your computer. Download here: https://www.box.com/resources/downloads/drive
 
 ### Text editors
-
 Microsoft Word or Google Drive are great apps for writing papers. They make it easy to style and present a document. However, to work with text in a programmatic way, or to write code, we need a different app. MS Word adds a lot of hidden styling and other baggage that we don't need. One of the best features of text editors is that they can detect what language you're writing in and highlight the elements in different colors.
 
 There are a lot of [options](http://lifehacker.com/five-best-text-editors-1564907215) for text editors. You're welcome to try on a few before choosing. I use [Atom](http://atom.io/) and [Sublime Text](https://www.sublimetext.com/), so I recommend you install it for consistency.
@@ -19,6 +18,8 @@ There are a lot of [options](http://lifehacker.com/five-best-text-editors-156490
 ### Zotero
 [Zotero](https://www.zotero.org/) is a citation manager. It operates via a browser plugin so you can capture citation information directly from the web. There is also a standalone desktop app ([and text mining possibilities!](http://papermachines.org/)) as well. There's even a plug-in for MS Word that will automatically generate your bibliography.
 
+### Lab Report
+I'll verify the completion 
 
 ## Lab 2 // HTML + CSS // January 9
 For these exercises, you will need to a text editor and a brower other than Safari. 
@@ -48,5 +49,5 @@ See some basic CSS at the [W3 Schools CSS tutorial](http://www.w3schools.com/css
 5. Add style to your links when you hover over them.
 
 ### Lab Report
-All your HTML and CSS documents should be 
+All your HTML and CSS documents should be saved to Box by class time on Thursday the 11th. 
 

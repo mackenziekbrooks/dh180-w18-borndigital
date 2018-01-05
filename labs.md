@@ -47,5 +47,6 @@ See some basic CSS at the [W3 Schools CSS tutorial](http://www.w3schools.com/css
 4. Change the border on your table.
 5. Add style to your links when you hover over them.
 
-
+### Lab Report
+All your HTML and CSS documents should be 
 

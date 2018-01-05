@@ -1,4 +1,4 @@
-# Course requirements:
+# Assignments:
 
 ## Participation/engagement (30%)
 * Attendance and participation (10%). Students are expected to be active, prepared members of this seminar. Willingness to engage with unfamiliar concepts and technology is essential. Unexcused absences will reduce your grade by one percentage point. 

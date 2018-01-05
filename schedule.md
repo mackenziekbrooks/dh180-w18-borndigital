@@ -4,7 +4,7 @@
 
 ### Tuesday, January 9, 2018
 * Welcome, intros, framing
-* Getting to know you survey
+* [Getting to know you survey](https://goo.gl/forms/C0CuErqv9emlNMSh1)
 * Slides
 * Labs 1 + 2
 

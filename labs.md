@@ -28,7 +28,12 @@ HTML, or Hypertext Markup Language, is one of the basic building blocks of the w
 
 Documentation for HTML lives [here at the W3 Schools](http://www.w3schools.com/html/).
 
-1. 
+1. Open your favorite text editor and using the W3 Schools as a guide, write your own HTML document.
+2. Save the file as index.html in your Box folder in a separate folder titled: Lab2. 
+3. To view your page in the browswer, open index.html in your browser, usually with the key commands Ctrl + o
+4. You should include the basic set of tags: <html> <head> <title> <body>
+5. Add five additional types of tags to the body of your HTML document, including a table.
+6. Add an additional HTML page and link the two pages.
 
 
 ### CSS 
@@ -36,7 +41,11 @@ Our next building block of the web is CSS, or Cascading Style Sheets. HTML struc
 
 See some basic CSS at the [W3 Schools CSS tutorial](http://www.w3schools.com/css/default.asp).
 
-
+1. Create a separate CSS document and save it as style.css in the same folder you created for the HTML activity.
+2. Link the style.css file to your HTML document. Consult the W3 Schools to figure out how to do this.
+3. Add a background color.
+4. Change the border on your table.
+5. Add style to your links when you hover over them.
 
 
 

@@ -6,7 +6,22 @@
 * Lab reports (10%). Each week we will experiment with web archiving tools and related technologies during lab time. You will be required to submit a brief lab report with the results of the in-class exercises. See [Labs](labs.md) for more details.
 
 ## Paper 1 (10%)
-Your personal archive (3-4 pages). What is in your personal archive? What kind of story do your digital artifacts tell? What physical records to do you produce, keep, and discard? Of the digital records you create, what survives? How does social media lose or preserve memories? And, as Molly Sauter writes in “Instant Recall,” “how do we remember when apps never forget?” In this paper, you will to track, document, reflect, and speculate on your personal archival record and its effect on your personal and collective memory.  
+Your personal archive (3-4 pages). What is in your personal archive? What kind of story do your digital artifacts tell? What physical records to do you produce, keep, and discard? Of the digital records you create, what survives? How does social media lose or preserve memories? And, as Molly Sauter writes in “Instant Recall,” “how do we remember when apps never forget?” In this paper, you will to track, document, reflect, and speculate on your personal archival record and its effect on your personal and collective memory. This is an exploratory paper, so questions are encouraged, but you should still seek some kind of conclusion through thoughtful analysis and reflection. 
+
+For instance, if someone inventoried my home, they would find several boxes of printed, annotated journal articles from college and grad school. What does this say about me as a person? As a librarian? While deep psychoanalysis isn't necessary, what would a historian write? What *could* a historian write? Is there enough to tell the story of your life or are their major life events or facets of yourself that are missing from the objects you might leave behind. 
+
+* 1 point for on time delivery of assignment. Save to your Box folder.
+* 1 point for appropriate filename (no spaces, includes last name, includes date, includes assignment identifier).
+* 1 point for appropriate length and formatting (MLA 8, 1 inch margins, double-spaced, 12 point font). 
+* 1 point for absence of major typos, grammatical errors, and unclear writing.
+* 1 point for clear structure - think intro, conclusion, and topic sentences.
+* 1 point for surveying your physical or print archive. Imagine inventorying your belongings for insurance reasons. What do you have at school? At home? Do you collect anything? Do you keep ephemera or throw it away (movie tickets, postcards, etc.)
+* 1 point for surveying your digital archive. Go beyond the files on your hard drive. What accounts (social media or otherwise) do you have? Can you download your account data? Do you delete emails or save them? Do you keep backups?
+* 1 point for reflecting on the effect of this archive on your memory. What is the effect of "outsourcing the contents of our minds to ... objects" (Rumsey 1)? 
+* 1 point for speculating on the future life of this material. What will you bring to your first apartment? What will you still have if your phone died right now? What will you show your kids?
+* 1 point for incorporating an external source in a meaningful way. Don't use external sources to speak for you, rather use it as evidence for your own idea or to prompt your own analysis.   
+
+
 
 ## Paper 2 (10%)
 Collection processing plan (3-4 pages). In order to gain a solid grounding in the basics of archival principles, you will be given the opportunity to encounter an archival collection in Leyburn Library’s Special Collections and Archives. In small groups, you will be asked to document the physical and intellectual qualities of the collection. How is it organized? Does it need conservation? Who are the major people involved? What is the provenance? How should the materials be described? What use might it be to researchers? 

@@ -2,7 +2,7 @@
 
 ## Participation/engagement (30%)
 * Attendance and participation (10%). Students are expected to be active, prepared members of this seminar. Willingness to engage with unfamiliar concepts and technology is essential. Unexcused absences will reduce your grade by one percentage point. 
-* Lead one class discussion (10%). In pairs, From a provided list and your own research, select two articles for the class to read and discuss. You are encouraged to match a scholarly article with a news article or blog post on a similar topic. You are responsible for generating questions and leading discussion for 20 minutes. Discussion dates will be assigned the first week of class. Articles must be approved one week prior to discussion. 
+* Lead one class discussion (10%). In pairs, you are responsible for leading discussion for 30 minutes of class. Discussion dates will be assigned the second week of class. See [Discussion](discussion.md) for more.
 * Lab reports (10%). Each week we will experiment with web archiving tools and related technologies during lab time. You will be required to submit a brief lab report with the results of the in-class exercises. See [Labs](labs.md) for more details.
 
 ## Paper 1 (10%)

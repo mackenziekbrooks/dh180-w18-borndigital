@@ -3,7 +3,7 @@
 ## Participation/engagement (30%)
 * Attendance and participation (10%). Students are expected to be active, prepared members of this seminar. Willingness to engage with unfamiliar concepts and technology is essential. Unexcused absences will reduce your grade by one percentage point. 
 * Lead one class discussion (10%). From a provided list and your own research, select two articles for the class to read and discuss. You are encouraged to match a scholarly article with a news article or blog post on a similar topic. You are responsible for generating questions and leading discussion for 20 minutes. Discussion dates will be assigned the first week of class. Articles must be approved one week prior to discussion. 
-* Lab reports (10%). Each week we will experiment with web archiving tools and related technologies during lab time. You will be required to submit a brief lab report with the results of the in-class exercises. 
+* Lab reports (10%). Each week we will experiment with web archiving tools and related technologies during lab time. You will be required to submit a brief lab report with the results of the in-class exercises. See [Labs](labs.md) for more details.
 
 ## Paper 1 (10%)
 Your personal archive (3-4 pages). What is in your personal archive? What kind of story do your digital artifacts tell? What physical records to do you produce, keep, and discard? Of the digital records you create, what survives? How does social media lose or preserve memories? And, as Molly Sauter writes in “Instant Recall,” “how do we remember when apps never forget?” In this paper, you will to track, document, reflect, and speculate on your personal archival record and its effect on your personal and collective memory.  

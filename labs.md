@@ -22,3 +22,21 @@ There are a lot of [options](http://lifehacker.com/five-best-text-editors-156490
 
 ## Lab 2 // HTML + CSS // January 9
 For these exercises, you will need to a text editor and a brower other than Safari. 
+
+### HTML
+HTML, or Hypertext Markup Language, is one of the basic building blocks of the web. HTML is a set of tags that add structure to documents. When you write a document, you rely on style to indicate something about the text. You might put the title in a bigger font or break up paragraphs with tabs or new lines. Markup languages do this by adding tags around the content you wish to set apart. For example: ```<title>The Lord of the Rings</title>``` or ```<p>This is a whole paragraph.</p>``` Your human eyes and brain can infer things based on visual appear that computers need to be told explicitly. That's why we need semantic markup.
+
+Documentation for HTML lives [here at the W3 Schools](http://www.w3schools.com/html/).
+
+1. 
+
+
+### CSS 
+Our next building block of the web is CSS, or Cascading Style Sheets. HTML structures your webpage, but you need something else to add the pretty colors and images. CSS has a different syntax than HTML. First you identify the HTML tag, then you declare the styles you wish to apply. ```title {color: red;}```
+
+See some basic CSS at the [W3 Schools CSS tutorial](http://www.w3schools.com/css/default.asp).
+
+
+
+
+

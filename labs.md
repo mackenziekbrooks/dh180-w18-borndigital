@@ -17,6 +17,8 @@ There are a lot of [options](http://lifehacker.com/five-best-text-editors-156490
 [Hypothes.is](https://hypothes.is/) is a new framework for open annotation of the web. It operates via a Chrome extension allowing you to make private and public comments on websites. I have set up a private group for our course as there will be some readings that we annotate as a group.
 
 ### Zotero
+[Zotero](https://www.zotero.org/) is a citation manager. It operates via a browser plugin so you can capture citation information directly from the web. There is also a standalone desktop app ([and text mining possibilities!](http://papermachines.org/)) as well. There's even a plug-in for MS Word that will automatically generate your bibliography.
+
 
 ## Lab 2 // HTML + CSS // January 9
-1. 
+For these exercises, you will need to a text editor and a brower other than Safari. 

@@ -6,7 +6,7 @@
 * Welcome, intros, framing
 * Getting to know you survey
 * Slides
-* Lab 1
+* Labs 1 + 2
 
 Read for Thursday:
 * Lepore, Jill. “What the Web Said Yesterday.” The New Yorker 19 Jan. 2015. https://www.newyorker.com/magazine/2015/01/26/cobweb

@@ -17,7 +17,8 @@ Read for Thursday:
 
 ### Thursday, January 11, 2018
 
-* Discussion 
+* Discussion charter
+* Discussion
 
 Read for Tuesday:
 

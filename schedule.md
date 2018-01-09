@@ -174,7 +174,7 @@ Read for Tuesday:
 
 * Owens, chap 9.
 
-* Pinsent, Ed. Conference on Web-Archiving, Part 2: Ian Milligan and His Derived Datasets. [https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets](https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets). 
+* Pinsent, Ed. Conference on Web-Archiving, Part 2: Ian Milligan and His Derived Datasets. [https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets](https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets).
 
 ## Week 10: Access
 
@@ -197,7 +197,7 @@ Read for Tuesday:
 Lab: web publishing  
 Readings:
 
-* ## Week 12: Conclusion
+## Week 12: Conclusion
 
 ### Tuesday, April 3, 2018
 

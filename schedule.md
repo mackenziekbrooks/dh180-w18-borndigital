@@ -26,6 +26,7 @@ Read for Tuesday:
 * Notopoulos, Katie. “Photobucket Is Holding People’s Photos For ‘Ransom.’” BuzzFeed, [https://www.buzzfeed.com/katienotopoulos/photobucket-just-killed-a-chunk-of-internet-history](https://www.buzzfeed.com/katienotopoulos/photobucket-just-killed-a-chunk-of-internet-history). Accessed 22 Sept. 2017.
 * Sauter, Molly. “Instant Recall.” Real Life, [http://reallifemag.com/instant-recall/](http://reallifemag.com/instant-recall/). 
 * Theimer, Kate. “Gaps in the Past and Gaps in the Future: Archival Silences and Social Media – \#acaubc2016 Talk.” ArchivesNext, [http://archivesnext.com/?p=4018](http://archivesnext.com/?p=4018). 
+* Rumsey, chap 2 
 
 ## Week 2: Record keeping and collective memory
 
@@ -119,13 +120,17 @@ Read for Tuesday:
 * Cook, Terry. “Remembering the Future: Appraisal of Records and the Role of Archives in Constructing Social Memory.” Archives, Documentation, and Institutions of Social Memory: Essays from the Sawyer Seminar, University of Michigan Press, 2006, [https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125).
 * DM, Alexandra. “Opportunities for Making Appraisal Transparent When Documenting the Now.” Documenting DocNow, 14 June 2017, [https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39](https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39).
 * Owens, chap 6.
-* The Programming Historian tutorials on web scraping. [https://programminghistorian.org/lessons/?topic=web-scraping](https://programminghistorian.org/lessons/?topic=web-scraping)
+* Rumsey, chap 10.
 
 _** Washington Break **_
 
 ## Week 7: Appraisal, collection development, and neutrality
 
 ### Tuesday, February 27, 2018
+
+Read for Thursday:
+* The Programming Historian tutorials on web scraping. [https://programminghistorian.org/lessons/?topic=web-scraping](https://programminghistorian.org/lessons/?topic=web-scraping)
+
 
 ### Thursday, March 1, 2018
 

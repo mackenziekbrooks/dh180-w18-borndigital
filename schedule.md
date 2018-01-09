@@ -101,6 +101,7 @@ Read for Tuesday:
 
 * Owens, chap 4
 * Brügger, chap 7
+* Rumsey, chap 9
 * Student choice
 
 ## Week 6: What makes a born digital collection?

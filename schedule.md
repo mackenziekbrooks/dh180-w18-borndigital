@@ -99,6 +99,8 @@ Lab: File formats
 
 Read for Tuesday:
 
+* Owens, chap 4
+* 
 ## Week 6: What makes a born digital collection?
 
 ### Tuesday, February 13, 2018
@@ -119,7 +121,7 @@ _** Washington Break **_
 
 ### Thursday, March 1, 2018
 
-Assignment: Annotated bibliography due.   
+Assignment: Annotated bibliography due.  
 Lab: Web scraping  
 Readings:
 
@@ -142,19 +144,23 @@ Readings:
 * Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, [https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf](https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf). \(Chap. 3\)
 * Weingart, Scott. “Basic Scraping: Getting Your Data.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, [http://www.themacroscope.org/?page\_id=625](http://www.themacroscope.org/?page_id=625).
 
+Read for Tuesday:
+
+* Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, Dec. 2013, pp. 661–688.
+
+* Light, Michelle, and Tom Hyry. “Colophons and Annotations: New Directions for the Finding Aid.” The American Archivist, vol. 65, no. 2, 2002, pp. 216–230.
+* Owens, chap 8.
+
 ## Week 9: Arrangement & description
 
 ### Tuesday, March 13, 2018
 
 ### Thursday, March 15, 2018
 
-Lab: Metadata, data cleanup   
+Lab: Metadata, data cleanup  
 Readings:
 
-* Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, Dec. 2013, pp. 661–688.
-* Light, Michelle, and Tom Hyry. “Colophons and Annotations: New Directions for the Finding Aid.” The American Archivist, vol. 65, no. 2, 2002, pp. 216–230.
-* Owens, chap 8.
-
+* 
 ## Week 10: Access
 
 ### Tuesday, March 20, 2018

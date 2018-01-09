@@ -147,9 +147,8 @@ Read for Tuesday:
 
 ### Thursday, March 8, 2018
 
-Assignment: project proposal due.  
-Lab: Twitter scraping; guest lecture from UVa graduate student \(tentative\).  
-Readings:
+* Assignment: project proposal due
+* Lab: Twitter scraping; guest lecture from UVa graduate student \(tentative\). 
 
 * Read for Tuesday:
 

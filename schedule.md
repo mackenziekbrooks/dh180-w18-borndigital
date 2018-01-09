@@ -168,12 +168,12 @@ Read for Tuesday:
 
 Lab: Metadata, data cleanup
 
-  
 Read for Tuesday:
 
 * McGill, Andrew. “Can Twitter Fit Inside the Library of Congress?” The Atlantic, Aug. 2016. The Atlantic, [https://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/](https://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/).
 
 * Owens, chap 9.
+
 * Pinsent, Ed. Conference on Web-Archiving, Part 2: Ian Milligan and His Derived Datasets. [https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets](https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets). 
 
 ## Week 10: Access
@@ -182,7 +182,10 @@ Read for Tuesday:
 
 ### Thursday, March 22, 2018
 
-* Lab: project work Read for Tuesday:
+* Lab: project work 
+
+Read for Tuesday:
+
 * Brügger, chap 12.
 
 ## Week 11: Outreach & the future of born digital archives
@@ -194,8 +197,7 @@ Read for Tuesday:
 Lab: web publishing  
 Readings:
 
-* 
-## Week 12: Conclusion
+* ## Week 12: Conclusion
 
 ### Tuesday, April 3, 2018
 

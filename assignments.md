@@ -1,4 +1,6 @@
-# Assignments:
+# Assignments
+
+Unless otherwise noted, all assignments will turned in via Box. Grades will be delivered through Sakai. 
 
 ## Participation/engagement (30%)
 * Attendance and participation (10%). Students are expected to be active, prepared members of this seminar. Willingness to engage with unfamiliar concepts and technology is essential. Unexcused absences will reduce your grade by one percentage point. 

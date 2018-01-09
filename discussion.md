@@ -3,7 +3,7 @@
 
 # Discussion leading
 
-Welcome to life on the other side of the classroom! In pairs, you are responsible for leading discussion for 30 minutes of class. Discussion dates will be assigned the second week of class. 
+Welcome to life on the other side of the classroom! In pairs, you are responsible for leading discussion for 30 minutes of class. Discussion dates will be assigned the second week of class. [Signup will happen in Box](https://wlu.box.com/s/hyseo1nkbnxp1wmlepbtspklqqthehut).
 
 From the list below and your own research, select two articles for the class to read and discuss. 
 
@@ -12,7 +12,12 @@ You are encouraged to match the scheduled course readings with a news article or
 You are responsible for generating questions and leading discussion for 30 minutes. Here are some suggestions:
 * Be creative! Think about the types of classroom experiences that you have useful or exciting. 
 * Allow for multiple learning styles. Some students talk to think, while others prefer time to process ideas to themselves or through writing. 
+* Decide on a structure for discussion. Whole group, small groups? Is this a debate? A scavenger hunt?
+* Don't be afraid of silence! 
 
+Here are a few guides for leading discussion:
+* [How to Lead Discussion (Stanford)](https://teachingcommons.stanford.edu/resources/teaching/small-groups-and-discussions/how-lead-discussion)
+* [Tips on Leading Class Discussions (Carleton)](https://apps.carleton.edu/curricular/history/resources/study/leaddiscussion/)
   
 # Week 5 / February 6
 Students:

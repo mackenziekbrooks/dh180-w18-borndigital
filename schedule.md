@@ -59,7 +59,7 @@ Read for Tuesday:
 
 ### Thursday, January 25, 2018
 
-Lab: Metadata!
+* Lab: Metadata!
 
 Read for Tuesday:
 
@@ -82,7 +82,7 @@ Read for Tuesday:
 * Owens, chap 3. 
 * Student choice
 
-**Assignment 2 due Thursday**
+**Assignment 2 due Thursday, February 8th**
 
 ## Week 5: Digital objects
 
@@ -100,18 +100,25 @@ Lab: File formats
 Read for Tuesday:
 
 * Owens, chap 4
-* 
+* Brügger, chap 7
+* Student choice
+
 ## Week 6: What makes a born digital collection?
 
 ### Tuesday, February 13, 2018
 
+* Discussion
+
 ### Thursday, February 15, 2018
 
-Lab: Library research and resource evaluation session  
-Readings:
+* Lab: Library research and resource evaluation session
 
-* Brügger, chap 7.
-* Owen, chaps 4-5.
+Read for Tuesday:
+
+* Cook, Terry. “Remembering the Future: Appraisal of Records and the Role of Archives in Constructing Social Memory.” Archives, Documentation, and Institutions of Social Memory: Essays from the Sawyer Seminar, University of Michigan Press, 2006, [https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125).
+* DM, Alexandra. “Opportunities for Making Appraisal Transparent When Documenting the Now.” Documenting DocNow, 14 June 2017, [https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39](https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39).
+* Owens, chap 6.
+* The Programming Historian tutorials on web scraping. [https://programminghistorian.org/lessons/?topic=web-scraping](https://programminghistorian.org/lessons/?topic=web-scraping)
 
 _** Washington Break **_
 
@@ -124,11 +131,6 @@ _** Washington Break **_
 Assignment: Annotated bibliography due.  
 Lab: Web scraping  
 Readings:
-
-* Cook, Terry. “Remembering the Future: Appraisal of Records and the Role of Archives in Constructing Social Memory.” Archives, Documentation, and Institutions of Social Memory: Essays from the Sawyer Seminar, University of Michigan Press, 2006, [https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125).
-* DM, Alexandra. “Opportunities for Making Appraisal Transparent When Documenting the Now.” Documenting DocNow, 14 June 2017, [https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39](https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39).
-* Owens, chap 6.
-* The Programming Historian tutorials on web scraping. [https://programminghistorian.org/lessons/?topic=web-scraping](https://programminghistorian.org/lessons/?topic=web-scraping)
 
 ## Week 8: Acquisition & ethics
 
@@ -149,6 +151,7 @@ Read for Tuesday:
 * Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, Dec. 2013, pp. 661–688.
 
 * Light, Michelle, and Tom Hyry. “Colophons and Annotations: New Directions for the Finding Aid.” The American Archivist, vol. 65, no. 2, 2002, pp. 216–230.
+
 * Owens, chap 8.
 
 ## Week 9: Arrangement & description
@@ -160,8 +163,7 @@ Read for Tuesday:
 Lab: Metadata, data cleanup  
 Readings:
 
-* 
-## Week 10: Access
+* ## Week 10: Access
 
 ### Tuesday, March 20, 2018
 

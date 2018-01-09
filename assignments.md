@@ -25,8 +25,8 @@ For instance, if someone inventoried my home, they would find several boxes of p
 
 
 
-## Paper 2 (10%)
-Collection processing plan (3-4 pages). In order to gain a solid grounding in the basics of archival principles, you will be given the opportunity to encounter an archival collection in Leyburn Library’s Special Collections and Archives. In small groups, you will be asked to document the physical and intellectual qualities of the collection. How is it organized? Does it need conservation? Who are the major people involved? What is the provenance? How should the materials be described? What use might it be to researchers? 
+## Paper 2: Collection Encounter (10%)
+In order to gain a solid grounding in the basics of archival principles, you will be given the opportunity to encounter an archival collection in Leyburn Library’s Special Collections and Archives. In small groups, you will be asked to document the physical and intellectual qualities of the collection. How is it organized? Does it need conservation? Who are the major people involved? What is the provenance? How should the materials be described? What use might it be to researchers? 
 
 ## Born Digital Archive Project (50%)
 

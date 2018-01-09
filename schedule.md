@@ -60,7 +60,7 @@ Read for Tuesday:
 
 ### Tuesday, January 23, 2018
 
-* Assignment: Personal Archive paper due
+* Assignment: Paper 1 Personal Archive paper due
 * Discussion
 
 ### Thursday, January 25, 2018

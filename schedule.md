@@ -129,8 +129,15 @@ _** Washington Break **_
 ### Thursday, March 1, 2018
 
 Assignment: Annotated bibliography due.  
-Lab: Web scraping  
-Readings:
+Lab: Web scraping
+
+  
+Read for Tuesday:
+
+* Jules, Bergis. “Some Thoughts on Ethics and DocNow.” Documenting DocNow, 3 June 2016, [https://news.docnow.io/some-thoughts-on-ethics-and-docnow-d19cfec427f2](https://news.docnow.io/some-thoughts-on-ethics-and-docnow-d19cfec427f2).
+
+* Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, [https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf](https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf). \(Chap. 3\)
+* Weingart, Scott. “Basic Scraping: Getting Your Data.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, [http://www.themacroscope.org/?page\_id=625](http://www.themacroscope.org/?page_id=625).
 
 ## Week 8: Acquisition & ethics
 
@@ -142,10 +149,7 @@ Assignment: project proposal due.
 Lab: Twitter scraping; guest lecture from UVa graduate student \(tentative\).  
 Readings:
 
-* Jules, Bergis. “Some Thoughts on Ethics and DocNow.” Documenting DocNow, 3 June 2016, [https://news.docnow.io/some-thoughts-on-ethics-and-docnow-d19cfec427f2](https://news.docnow.io/some-thoughts-on-ethics-and-docnow-d19cfec427f2).
-* Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, [https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf](https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf). \(Chap. 3\)
-* Weingart, Scott. “Basic Scraping: Getting Your Data.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, [http://www.themacroscope.org/?page\_id=625](http://www.themacroscope.org/?page_id=625).
-
+* 
 Read for Tuesday:
 
 * Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, Dec. 2013, pp. 661–688.

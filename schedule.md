@@ -148,9 +148,9 @@ Read for Tuesday:
 ### Thursday, March 8, 2018
 
 * Assignment: project proposal due
-* Lab: Twitter scraping; guest lecture from UVa graduate student \(tentative\). 
+* Lab: Twitter scraping; guest lecture from UVa graduate student \(tentative\).
 
-* Read for Tuesday:
+Read for Tuesday:
 
 * Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, Dec. 2013, pp. 661–688.
 

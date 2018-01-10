@@ -20,6 +20,7 @@ Read for Thursday:
 * Discussion charter
 * Discussion
 * [Hypothes.is group](https://hypothes.is/groups/6eZL1JYV/dh180-w18)
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day2.html)
 
 Read for Tuesday:
 

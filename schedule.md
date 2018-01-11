@@ -25,14 +25,15 @@ Read for Thursday:
 Read for Tuesday:
 
 * Weingart, Scott. “Why We’re All Digital Now.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, [http://www.themacroscope.org/?page\_id=617](http://www.themacroscope.org/?page_id=617).
-* Haskins, Ekaterina. “Between Archive and Participation: Public Memory in a Digital Age.” Rhetoric Society Quarterly, vol. 37, no. 4, 2007, pp. 401–422.
+
 * Theimer, Kate. “Gaps in the Past and Gaps in the Future: Archival Silences and Social Media – \#acaubc2016 Talk.” ArchivesNext, [http://archivesnext.com/?p=4018](http://archivesnext.com/?p=4018). 
 * Rumsey, chap 2 
 
-Look at: 
+Look at:
+
 * Notopoulos, Katie. “Photobucket Is Holding People’s Photos For ‘Ransom.’” BuzzFeed, [https://www.buzzfeed.com/katienotopoulos/photobucket-just-killed-a-chunk-of-internet-history](https://www.buzzfeed.com/katienotopoulos/photobucket-just-killed-a-chunk-of-internet-history). Accessed 22 Sept. 2017.
 * Sauter, Molly. “Instant Recall.” Real Life, [http://reallifemag.com/instant-recall/](http://reallifemag.com/instant-recall/). 
-
+* Haskins, Ekaterina. “Between Archive and Participation: Public Memory in a Digital Age.” Rhetoric Society Quarterly, vol. 37, no. 4, 2007, pp. 401–422.
 
 ## Week 2: Record keeping and collective memory
 
@@ -135,8 +136,8 @@ _** Washington Break **_
 ### Tuesday, February 27, 2018
 
 Read for Thursday:
-* The Programming Historian tutorials on web scraping. [https://programminghistorian.org/lessons/?topic=web-scraping](https://programminghistorian.org/lessons/?topic=web-scraping)
 
+* The Programming Historian tutorials on web scraping. [https://programminghistorian.org/lessons/?topic=web-scraping](https://programminghistorian.org/lessons/?topic=web-scraping)
 
 ### Thursday, March 1, 2018
 

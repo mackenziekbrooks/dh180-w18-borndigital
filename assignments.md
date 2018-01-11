@@ -36,7 +36,7 @@ Born digital archives annotated bibliography. Review 4-5 existing born digital a
 ### Proposal
 In one page, describe the topic and goals of the born digital archive you wish to build. What websites or other content do you wish to include? How will it be useful to future scholars? What permissions or privacy concerns do you need to consider? What web archiving applications will you use? How will you make the collection accessible?
 
-#### Born digital archives creation 
+### Born digital archives creation 
 Using the tools we have learned in class (Archive-it, Twarc, or others), create a focused archive of born digital content. The final product will vary depending on your topic, but it should include: 1) the digital files you are preserving 2) documentation on how to use the archive 3) potential research questions or example queries 4) thorough metadata 5) attribution to content creators and 6) a plan for the continual preservation of the archives. Portions of this project will be completed during lab time.
 
 ### Project reflection 

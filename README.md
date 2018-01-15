@@ -6,7 +6,7 @@ Prof. Mackenzie Brooks
 
 Assistant Professor and Digital Humanities Librarian
 
-[brooksm@wlu.edu](mailto:brooksm@wlu.edu) // 540-458-8659 // Leyburn 218 // office hours TBD
+[brooksm@wlu.edu](mailto:brooksm@wlu.edu) // 540-458-8659 // Leyburn 218 // office hours: Wed 4-5pm, Thurs 2-3pm.
 
 
 

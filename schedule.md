@@ -62,7 +62,7 @@ Read for Tuesday:
 
 ### Tuesday, January 23, 2018
 
-* Assignment: Paper 1 Personal Archive paper due
+* Assignment: Paper 1 Personal Archive paper due by class time in your Box folder.
 * Discussion
 
 ### Thursday, January 25, 2018

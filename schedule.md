@@ -40,11 +40,13 @@ Look at:
 ### Tuesday, January 16, 2018
 
 * Discussion
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day3.html)
 
 Read for Thursday:
 
 * [Introduction to the Windows Command Line](https://programminghistorian.org/lessons/intro-to-powershell) \(Windows people\)
 * [Introduction to the Bash Command Line](https://programminghistorian.org/lessons/intro-to-bash) \(Mac people\)
+* Windows people: download [Git Bash aka Git for Windows](http://gitforwindows.org/).
 
 ### Thursday, January 18, 2018
 

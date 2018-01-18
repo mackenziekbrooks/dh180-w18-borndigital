@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Mackenzie Brooks">
+  <meta name="dcterms.date" content="2018-01-18">
+  <title>DH 180 // day four</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="reveal.js/css/theme/white.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+  <h1 class="title">DH 180 // day four</h1>
+  <h2 class="author">Mackenzie Brooks</h2>
+  <h3 class="date">January 18, 2018</h3>
+</section>
+
+<section id="how-computers-work" class="slide level1">
+<h1>how computers work</h1>
+<ul>
+<li>series of commands</li>
+<li>binary</li>
+<li>layers of abstraction</li>
+<li>humans!</li>
+</ul>
+</section>
+<section id="command-line" class="slide level1">
+<h1>command line</h1>
+<ul>
+<li>vs. GUI</li>
+<li>container = shell</li>
+<li>tree structure</li>
+</ul>
+</section>
+<section id="syntax" class="slide level1">
+<h1>syntax</h1>
+<p><code>$ command parameters -flag</code></p>
+<ul>
+<li>$ says start after me</li>
+<li>command = what to do</li>
+<li>parameters = how to do it flag = use this option</li>
+</ul>
+</section>
+<section id="command-line-crash-course" class="slide level1">
+<h1>command line crash course</h1>
+<p><a href="https://learnpythonthehardway.org/book/appendixa.html" class="uri">https://learnpythonthehardway.org/book/appendixa.html</a></p>
+</section>
+<section id="print-working-directory" class="slide level1">
+<h1>print working directory</h1>
+<p><code>$ pwd</code></p>
+</section>
+<section id="list" class="slide level1">
+<h1>list</h1>
+<p><code>$ ls</code></p>
+</section>
+<section id="change-directory" class="slide level1">
+<h1>change directory</h1>
+<p><code>$ cd</code></p>
+</section>
+<section id="go-to-desktop" class="slide level1">
+<h1>go to desktop</h1>
+<p><code>$ cd ~/Desktop</code></p>
+</section>
+<section id="make-directory" class="slide level1">
+<h1>make directory</h1>
+<p><code>$ mkdir bananas</code></p>
+</section>
+<section id="change-into-bananas" class="slide level1">
+<h1>change into bananas</h1>
+<p><code>$ cd bananas</code></p>
+</section>
+<section id="return-to-desktop" class="slide level1">
+<h1>return to desktop</h1>
+<p><code>$ cd ..</code></p>
+</section>
+<section id="next" class="slide level1">
+<h1>next:</h1>
+<ol type="1">
+<li>return to <code>bananas</code></li>
+<li>make a new directory</li>
+<li>change into that directory</li>
+</ol>
+</section>
+<section id="touch" class="slide level1">
+<h1>touch</h1>
+<p><code>$ touch file.txt</code></p>
+</section>
+<section id="open" class="slide level1">
+<h1>open</h1>
+<p><code>$ open file.txt</code></p>
+</section>
+<section id="next-1" class="slide level1">
+<h1>next:</h1>
+<ol type="1">
+<li>type something</li>
+<li>save.</li>
+<li><code>cat file.txt</code></li>
+</ol>
+</section>
+<section id="copy" class="slide level1">
+<h1>copy</h1>
+<p><code>$ cp file.txt newfile.txt</code></p>
+</section>
+<section id="delete" class="slide level1">
+<h1>delete</h1>
+<p><code>$ rm file.txt</code></p>
+</section>
+<section id="trace-route" class="slide level1">
+<h1>trace route</h1>
+<p><code>$ traceroute</code></p>
+</section>
+<section id="vim" class="slide level1">
+<h1>vim!</h1>
+<p><code>$ vim file.txt</code></p>
+<p>Use Google to figure out how to edit the file, save, then exit.</p>
+</section>
+<section id="lab-3" class="slide level1">
+<h1>Lab 3</h1>
+<ol type="1">
+<li>Type <code>history</code>.</li>
+<li>Copy and paste contents to new file.</li>
+<li>Save as lab3.txt in Box.</li>
+</ol>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>

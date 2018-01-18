@@ -53,7 +53,7 @@ Read for Thursday:
 * Lab: Command line 
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day4.html)
 
-Read for Tuesday:
+Read for Tuesday. As you read, make a list of what the authors identify as "principles."
 
 * Bailey, Jefferson. “Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives - Archive Journal.” Archive Journal, June 2013, [http://www.archivejournal.net/?p=4722](http://www.archivejournal.net/?p=4722).
 * Cook, Terry. “Evidence, Memory, Identity, and Community: Four Shifting Archival Paradigms.” Archival Science, vol. 13, no. 2–3, June 2013, pp. 95–120.

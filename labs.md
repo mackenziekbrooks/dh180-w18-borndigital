@@ -53,4 +53,9 @@ All your HTML and CSS documents should be saved to Box by class time on Thursday
 
 ## Lab 3: Command line 
 
+### Lab Report
+1. Type ```history``` in the command line. 
+2. Copy and paste the results to a text file.
+3. Save as lab3.txt in Box.
+
 

@@ -136,6 +136,7 @@ _** Washington Break **_
 ## Week 7: Appraisal, collection development, and neutrality
 
 ### Tuesday, February 27, 2018
+* Lab: Twitter scraping; guest lecture from UVa graduate student.
 
 Read for Thursday:
 
@@ -163,7 +164,7 @@ Read for Tuesday:
 ### Thursday, March 8, 2018
 
 * Assignment: project proposal due
-* Lab: Twitter scraping; guest lecture from UVa graduate student \(tentative\).
+* Lab: Archive-it training
 
 Read for Tuesday:
 

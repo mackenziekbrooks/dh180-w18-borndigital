@@ -51,6 +51,7 @@ Read for Thursday:
 ### Thursday, January 18, 2018
 
 * Lab: Command line 
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day4.html)
 
 Read for Tuesday:
 

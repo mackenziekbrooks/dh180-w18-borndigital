@@ -119,7 +119,7 @@ Read for Tuesday:
 
 * Discussion (student led)
 
-Read for THursday:
+Read for Thursday:
 * Rumsey, chap 5
 
 ### Thursday, February 15, 2018

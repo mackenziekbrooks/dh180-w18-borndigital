@@ -65,6 +65,9 @@ Read for Tuesday. As you read, make a list of what the authors identify as "prin
 
 * Assignment: Paper 1 Personal Archive paper due by class time in your Box folder.
 * Discussion
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day5.html)
+
+
 
 ### Thursday, January 25, 2018
 

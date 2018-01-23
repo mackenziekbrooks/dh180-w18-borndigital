@@ -126,9 +126,8 @@ Read for Tuesday:
 
 * Lab: Library research and resource evaluation session
 
-Read for next week:
+Read for Tuesday:
 
-* Cook, Terry. “Remembering the Future: Appraisal of Records and the Role of Archives in Constructing Social Memory.” Archives, Documentation, and Institutions of Social Memory: Essays from the Sawyer Seminar, University of Michigan Press, 2006, [https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125).
 * DM, Alexandra. “Opportunities for Making Appraisal Transparent When Documenting the Now.” Documenting DocNow, 14 June 2017, [https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39](https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39).
 * Owens, chap 6.
 * Rumsey, chap 10.
@@ -141,9 +140,9 @@ _** Washington Break **_
 * Lab: Twitter scraping; guest lecture from Alyssa Collins, UVa graduate student.
 
 Read for Thursday:
+* Cook, Terry. “Remembering the Future: Appraisal of Records and the Role of Archives in Constructing Social Memory.” Archives, Documentation, and Institutions of Social Memory: Essays from the Sawyer Seminar, University of Michigan Press, 2006, [https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125).
+* Owens, chap 6.
 
-* The Programming Historian tutorials on web scraping. [https://programminghistorian.org/lessons/?topic=web-scraping](https://programminghistorian.org/lessons/?topic=web-scraping)
-* Weingart, Scott. “Basic Scraping: Getting Your Data.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, [http://www.themacroscope.org/?page\_id=625](http://www.themacroscope.org/?page_id=625).
 
 
 ### Thursday, March 1, 2018

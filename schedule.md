@@ -219,17 +219,19 @@ Read for Tuesday:
 ## Week 11: Outreach & the future of born digital archives
 
 ### Tuesday, March 27, 2018
+Discussion
 
 ### Thursday, March 29, 2018
 
 Lab: web publishing  
-Readings:
+
 
 ## Week 12: Conclusion
 
 ### Tuesday, April 3, 2018
-
+Presentations
 ### Thursday, April 5, 2018
+Presentations
 
-Assignments: final presentations
+**Reflection due**
 

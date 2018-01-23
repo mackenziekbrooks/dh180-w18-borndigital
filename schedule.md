@@ -205,6 +205,7 @@ Discussion, student led
 
 * Lab: project work 
 
+
 Read for Tuesday:
 
 * Brügger, chap 12.

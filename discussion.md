@@ -5,7 +5,7 @@
 
 Welcome to life on the other side of the classroom! In pairs, you are responsible for leading discussion for 30 minutes of class. Discussion dates will be assigned the second week of class. [Signup will happen in Box](https://wlu.box.com/s/hyseo1nkbnxp1wmlepbtspklqqthehut).
 
-From the list below and your own research, select two articles for the class to read and discuss. 
+From the list below and your own research, select 1-2 articles for the class to read and discuss. 
 
 You are encouraged to match the scheduled course readings with a news article or blog post on a similar topic. Articles must be approved one week prior to discussion.
 
@@ -19,25 +19,6 @@ Here are a few guides for leading discussion:
 * [How to Lead Discussion (Stanford)](https://teachingcommons.stanford.edu/resources/teaching/small-groups-and-discussions/how-lead-discussion)
 * [Tips on Leading Class Discussions (Carleton)](https://apps.carleton.edu/curricular/history/resources/study/leaddiscussion/)
   
-# Week 5 / February 6
-Students:
-
-Readings: 
-
-# Week 6 / February 13
-
-# Week 7 / February 27
-
-# Week 8 / March 6
-
-# Week 9 / March 13
-
-# Week 10 / March 20
-
-# Week 11 / March 27
-
-# Week 12 / April 3
-
 
 
 

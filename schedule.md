@@ -138,7 +138,7 @@ _** Washington Break **_
 ## Week 7: Appraisal, collection development, and neutrality
 
 ### Tuesday, February 27, 2018
-* Lab: Twitter scraping; guest lecture from UVa graduate student.
+* Lab: Twitter scraping; guest lecture from Alyssa Collins, UVa graduate student.
 
 Read for Thursday:
 

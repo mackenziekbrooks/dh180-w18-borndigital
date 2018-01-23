@@ -144,19 +144,14 @@ Read for Thursday:
 * Owens, chap 6.
 
 
-
 ### Thursday, March 1, 2018
 
 * Assignment: Annotated bibliography due.  
-* Discussion
-
+* Discussion, student led
 
 Read for Tuesday:
-
 * Jules, Bergis. “Some Thoughts on Ethics and DocNow.” Documenting DocNow, 3 June 2016, [https://news.docnow.io/some-thoughts-on-ethics-and-docnow-d19cfec427f2](https://news.docnow.io/some-thoughts-on-ethics-and-docnow-d19cfec427f2).
-
 * Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, [https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf](https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf). \(Chap. 3\)
-
 * Bailey, Jefferson. “Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives - Archive Journal.” Archive Journal, June 2013, [http://www.archivejournal.net/?p=4722](http://www.archivejournal.net/?p=4722).
 
 
@@ -164,7 +159,7 @@ Read for Tuesday:
 
 ### Tuesday, March 6, 2018
 
-* Discussion
+* Discussion, student led
 
 ### Thursday, March 8, 2018
 
@@ -204,6 +199,7 @@ Read for Tuesday:
 ## Week 10: Access
 
 ### Tuesday, March 20, 2018
+Discussion, student led
 
 ### Thursday, March 22, 2018
 
@@ -215,11 +211,10 @@ Read for Tuesday:
 * Rumsey, chap 10.
 
 
-
 ## Week 11: Outreach & the future of born digital archives
 
 ### Tuesday, March 27, 2018
-Discussion
+Discussion, student led
 
 ### Thursday, March 29, 2018
 

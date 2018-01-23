@@ -126,7 +126,7 @@ Read for Tuesday:
 
 * Lab: Library research and resource evaluation session
 
-Read for Tuesday:
+Read for next week:
 
 * Cook, Terry. “Remembering the Future: Appraisal of Records and the Role of Archives in Constructing Social Memory.” Archives, Documentation, and Institutions of Social Memory: Essays from the Sawyer Seminar, University of Michigan Press, 2006, [https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125).
 * DM, Alexandra. “Opportunities for Making Appraisal Transparent When Documenting the Now.” Documenting DocNow, 14 June 2017, [https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39](https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39).
@@ -135,7 +135,7 @@ Read for Tuesday:
 
 _** Washington Break **_
 
-## Week 7: Appraisal, collection development, and neutrality
+## Week 7: Appraisal, acquisition, and ethics
 
 ### Tuesday, February 27, 2018
 * Lab: Twitter scraping; guest lecture from Alyssa Collins, UVa graduate student.
@@ -143,11 +143,14 @@ _** Washington Break **_
 Read for Thursday:
 
 * The Programming Historian tutorials on web scraping. [https://programminghistorian.org/lessons/?topic=web-scraping](https://programminghistorian.org/lessons/?topic=web-scraping)
+* Weingart, Scott. “Basic Scraping: Getting Your Data.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, [http://www.themacroscope.org/?page\_id=625](http://www.themacroscope.org/?page_id=625).
+
 
 ### Thursday, March 1, 2018
 
-Assignment: Annotated bibliography due.  
-Lab: Web scraping
+* Assignment: Annotated bibliography due.  
+* Discussion
+
 
 Read for Tuesday:
 
@@ -155,9 +158,8 @@ Read for Tuesday:
 
 * Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, [https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf](https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf). \(Chap. 3\)
 
-* Weingart, Scott. “Basic Scraping: Getting Your Data.” The Historian’s Macroscope: Big Digital History, Imperial College Press, 2014, [http://www.themacroscope.org/?page\_id=625](http://www.themacroscope.org/?page_id=625).
 
-## Week 8: Acquisition & ethics
+## Week 8: Respect des fonds, provenance, original order
 
 ### Tuesday, March 6, 2018
 

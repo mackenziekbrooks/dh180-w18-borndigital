@@ -99,17 +99,18 @@ Read for Tuesday:
 
 ### Tuesday, February 6, 2018
 
+* Debrief on Special Collections
 * Discussion \(student led\)
 
 Read for Thursday:
 
 ### Thursday, February 8, 2018
 
-Assignment: Collection Processing Plan due  
+Assignment: Paper 2: Collection Encounter due  
 Lab: File formats
 
-Read for Tuesday:
 
+Read for Tuesday:
 * Owens, chap 4
 * Brügger, chap 7
 * Rumsey, chap 9
@@ -119,7 +120,7 @@ Read for Tuesday:
 
 ### Tuesday, February 13, 2018
 
-* Discussion
+* Discussion (student led)
 
 ### Thursday, February 15, 2018
 

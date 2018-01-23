@@ -126,7 +126,7 @@ Read for Thursday:
 
 * Lab: Library research and resource evaluation session
 
-Read for Tuesday:
+Read for Tuesday after break:
 
 * DM, Alexandra. “Opportunities for Making Appraisal Transparent When Documenting the Now.” Documenting DocNow, 14 June 2017, [https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39](https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39).
 * Owens, chap 6.

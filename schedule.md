@@ -80,11 +80,12 @@ Read for Tuesday:
 
 ### Tuesday, January 30, 2018
 
-Visit to Special Collections and Archives \(Leyburn, Lower Level 1\). Presentation by Tom Camden, Head of Special Collections and Archives.
+**Visit to Special Collections and Archives \(Leyburn, Lower Level 1\)**. 
+Presentation by Tom Camden, Head of Special Collections and Archives.
 
 ### Thursday, February 1, 2018
 
-Lab: work in Special Collections on processing plan assignment.
+Lab: work in Special Collections on collection encounter assignment.
 
 Read for Tuesday:
 

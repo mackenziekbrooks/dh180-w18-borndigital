@@ -3,7 +3,7 @@
 
 # Discussion leading
 
-Welcome to life on the other side of the classroom! In pairs, you are responsible for leading discussion for 30 minutes of class. Discussion dates will be assigned the second week of class. [Signup will happen in Box](https://wlu.box.com/s/hyseo1nkbnxp1wmlepbtspklqqthehut).
+Welcome to life on the other side of the classroom! In pairs, you are responsible for leading discussion for 30-45 minutes of class. Discussion dates will be assigned the third week of class. [Signup will happen in Box](https://wlu.box.com/s/hyseo1nkbnxp1wmlepbtspklqqthehut).
 
 From the list below and your own research, select 1-2 articles for the class to read and discuss. 
 

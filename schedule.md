@@ -55,9 +55,7 @@ Read for Thursday:
 
 Read for Tuesday. As you read, make a list of what the authors identify as "principles."
 
-* Bailey, Jefferson. “Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives - Archive Journal.” Archive Journal, June 2013, [http://www.archivejournal.net/?p=4722](http://www.archivejournal.net/?p=4722).
 * Cook, Terry. “Evidence, Memory, Identity, and Community: Four Shifting Archival Paradigms.” Archival Science, vol. 13, no. 2–3, June 2013, pp. 95–120.
-* Drake, Jarrett M. “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description.” Medium, 6 Apr. 2016, [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325\#.8a5icd8uw](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325#.8a5icd8uw).
 
 **Paper 1: Personal Archive due Tuesday!**
 
@@ -109,7 +107,6 @@ Read for Thursday:
 Assignment: Paper 2: Collection Encounter due  
 Lab: File formats
 
-
 Read for Tuesday:
 * Owens, chap 4
 * Brügger, chap 7
@@ -157,6 +154,8 @@ Read for Tuesday:
 
 * Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, [https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf](https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf). \(Chap. 3\)
 
+* Bailey, Jefferson. “Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives - Archive Journal.” Archive Journal, June 2013, [http://www.archivejournal.net/?p=4722](http://www.archivejournal.net/?p=4722).
+
 
 ## Week 8: Respect des fonds, provenance, original order
 
@@ -168,6 +167,7 @@ Read for Tuesday:
 
 * Assignment: project proposal due
 * Lab: Archive-it training
+
 
 Read for Tuesday:
 

@@ -93,7 +93,7 @@ Time to practice writing metadata! I will bring a selection of physical and digi
  
  
  ### Dublin Core 
- * Item number - the number I've written on a slip of paper to identify the item.
+* Item number - the number I've written on a slip of paper to identify the item.
 * Title - A name given to the resource.
 * Creator - An entity primarily responsible for making the resource. 
 * Subject - The topic of the resource. 

@@ -100,4 +100,4 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 * Description - A summary or accounty of the resource.
 * Publisher - entity responsible for making the resource available.
 * Contributor - An entity responsible for making contributions to the resource. 
-* Rights -  Information about rights held in and over the resource
+* Rights - Information about rights held in and over the resource, usually copyright.

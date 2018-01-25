@@ -88,7 +88,7 @@ Scholars' Lab has a great [tutorial](http://praxis.scholarslab.org/resources/bas
 Time to practice writing metadata! I will bring a selection of physical and digital objects for you to describe. 
 
  1. Open this [form](https://docs.google.com/forms/d/e/1FAIpQLSfKjQnI9kcDheU7-d7kDV2Hf_scm6KrUkiNP59ykD8oqlgz_A/viewform?usp=sf_link). 
- 2. Select an item. When you're finished, select another.
+ 2. Select an item. When you're finished, move on to another.
  3. Work individually to fill out one form entry for each item. You may have to do some research to find out more information. Pay attention to the kinds of searches or words you use and note that in the form.
  
  

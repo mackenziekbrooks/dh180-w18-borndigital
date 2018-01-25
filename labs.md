@@ -106,7 +106,7 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 * Format - details about the physical/digital format
 * Identifier - is there a unique identifier?
 * Source - did this resource come from somewhere?
-* Language - Primary language of the materials
+* Language - Primary language of the material.
 * Relation - are there related resources?
 * Coverage - spatial or temporal
 * Rights - Information about rights held in and over the resource, usually copyright.

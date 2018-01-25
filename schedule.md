@@ -76,6 +76,7 @@ Read for Tuesday. As you read, make a list of what the authors identify as "prin
 Read for Tuesday:
 
 * [Using Archives: A Guide to Effective Research](https://www2.archivists.org/usingarchives)
+* Check out Rumsey, chaps 3-5
 
 ## Week 4: Visiting Special Collections & Archives
 

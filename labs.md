@@ -91,6 +91,7 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 2. Select an item. When you're finished, move on to another.
 3. Work individually to fill out one form entry for each item. You may have to do some research to find out more information. Pay attention to the kinds of searches or words you use and note that in the form.
 4. Include your initials to receive credit for this lab.
+5. [Results](https://docs.google.com/spreadsheets/d/1aWf_pxCjuToYYAmuTjhtuOX4InKlTWz3Qo5BmYKNDaY/edit?usp=sharing)
  
  
  ### Dublin Core 

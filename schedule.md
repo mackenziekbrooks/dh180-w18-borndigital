@@ -72,6 +72,7 @@ Read for Tuesday. As you read, make a list of what the authors identify as "prin
 ### Thursday, January 25, 2018
 
 * Lab: Metadata!
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day6.html
 
 Read for Tuesday:
 

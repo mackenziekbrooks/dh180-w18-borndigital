@@ -84,3 +84,20 @@ Scholars' Lab has a great [tutorial](http://praxis.scholarslab.org/resources/bas
 3. Save as lab3.txt in Box.
 
 
+## Lab 4 
+Time to practice writing metadata! I will bring a selection of physical and digital objects for you to describe. 
+
+ 1. Open this [form](https://docs.google.com/forms/d/e/1FAIpQLSfKjQnI9kcDheU7-d7kDV2Hf_scm6KrUkiNP59ykD8oqlgz_A/viewform?usp=sf_link). 
+ 2. Select an item. When you're finished, select another.
+ 3. Work individually to fill out one form entry for each item. You may have to do some research to find out more information. Pay attention to the kinds of searches or words you use 
+ 
+ 
+ ### Dublin Core 
+ * Item number - the number I've written on a slip of paper to identify the item.
+* Title - A name given to the resource.
+* Creator - An entity primarily responsible for making the resource. 
+* Subject - The topic of the resource. 
+* Description - A summary or accounty of the resource.
+* Publisher - entity responsible for making the resource available.
+* Contributor - 
+

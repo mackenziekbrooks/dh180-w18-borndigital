@@ -101,12 +101,12 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 * Description - A summary or accounty of the resource.
 * Publisher - entity responsible for making the resource available.
 * Contributor - An entity responsible for making contributions to the resource. 
-* Date 
+* Date - when the item was created/published
 * Type - the nature or genre
 * Format - details about the physical/digital format
 * Identifier - is there a unique identifier?
 * Source - did this resource come from somewhere?
-* Language - 
+* Language - Primary language of the materials
 * Relation - are there related resources?
 * Coverage - spatial or temporal
 * Rights - Information about rights held in and over the resource, usually copyright.

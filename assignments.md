@@ -32,7 +32,7 @@ In order to gain a solid grounding in the basics of archival principles, you wil
 
 You should address the following questions \(.5 points each\): 
 
-* What is this collection? Give a basic inventory, remarking on anything especially unique or notable.
+* What is this collection? (Give a basic inventory, remarking on anything especially unique or notable.)
 * What is the extent \(often expressed in linear feet\)? 
 * What type of material does it contain?
 * How is the condition of the material? Has it been well-preserved? Does it need conservation? How can you tell?

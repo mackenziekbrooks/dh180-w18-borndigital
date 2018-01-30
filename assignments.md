@@ -37,7 +37,7 @@ You should address the following questions \(.5 points each\):
 * What type of material does it contain?
 * How is the condition of the material? Has it been well-preserved? Does it need preservation/conservation? How can you tell?
 * How is it organized? Does the order appear to be original? How can you tell? 
-* What is the provenance? 
+* What is the provenance? (You might have to ask someone in Special Collections).
 * Who are the creators? How much can you learn from the material itself vs. secondary research? Are there voices missing from the story this collection tells?
 * Check out the finding aid online at archivesspace.wlu.edu. Is the description complete? Does it need improvement? 
 * Who might find this collection useful? 

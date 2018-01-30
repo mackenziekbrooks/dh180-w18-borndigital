@@ -35,7 +35,7 @@ You should address the following questions \(.5 points each\):
 * What is this collection? (Give a basic inventory, remarking on anything especially unique or notable.)
 * What is the extent \(often expressed in linear feet\)? 
 * What type of material does it contain?
-* How is the condition of the material? Has it been well-preserved? Does it need conservation? How can you tell?
+* How is the condition of the material? Has it been well-preserved? Does it need preservation/conservation? How can you tell?
 * How is it organized? Does the order appear to be original? How can you tell? 
 * What is the provenance? 
 * Who are the creators? How much can you learn from the material itself vs. secondary research? Are there voices missing from the story this collection tells?

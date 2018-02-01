@@ -53,6 +53,8 @@ Here are a few guides for leading discussion:
 
 # Potential Readings
 * [ResearchBuzz](https://researchbuzz.me) aggregates a lot of relevant articles/projects
+* [Recompiler Magazine](https://recompilermag.com) a magazine about building better technology, together
+* [Aeon's technology section](https://aeon.co/technology)
 * [A Life in Google Maps](https://catapult.co/stories/a-life-in-google-maps)
 * [A Million Squandered: The “Million Dollar Homepage” as a Decaying Digital Artifact](https://lil.law.harvard.edu/blog/2017/07/21/a-million-squandered-the-million-dollar-homepage-as-a-decaying-digital-artifact/)
 * Any chapter in Rumsey we didn't cover 

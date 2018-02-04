@@ -98,7 +98,7 @@ Read for Tuesday:
 
 * Student choice: http://www.e-flux.com/journal/78/82706/digital-objects-and-metadata-schemes/ > check out "[What is a Digital Object?](http://onlinelibrary.wiley.com.ezproxy.wlu.edu/doi/10.1111/j.1467-9973.2012.01761.x/full)" for context.
 
-**Assignment 2 due Thursday, February 8th**
+**Assignment 2 due Thursday, February 8th  at class time**
 
 ## Week 5: Digital objects
 

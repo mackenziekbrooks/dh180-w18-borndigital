@@ -94,7 +94,7 @@ Read for Tuesday:
 
 * Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, [https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf](https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf). \(Chap. 2\)
 * Owens, chap 3. 
-* Student choice: http://www.e-flux.com/journal/78/82706/digital-objects-and-metadata-schemes/
+* Student choice: http://www.e-flux.com/journal/78/82706/digital-objects-and-metadata-schemes/ > check out "[What is a Digital Object?](http://onlinelibrary.wiley.com.ezproxy.wlu.edu/doi/10.1111/j.1467-9973.2012.01761.x/full)" for context.
 
 **Assignment 2 due Thursday, February 8th**
 

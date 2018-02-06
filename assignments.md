@@ -6,6 +6,13 @@ Unless otherwise noted, all assignments will turned in via Box. Grades will be d
 
 * Attendance and participation \(10%\). Students are expected to be active, prepared members of this seminar. Willingness to engage with unfamiliar concepts and technology is essential. Unexcused absences will reduce your grade by one percentage point. 
 * Lead one class discussion \(10%\). In pairs, you are responsible for leading discussion for 30 minutes of class. Discussion dates will be assigned the second week of class. See [Discussion](discussion.md) for more.
+
+    * 2 points for selecting an article on time. 
+    * 2 points for selecting a relevant article to the topic of the week. 
+    * 2 points for demonstrating an understanding of the selected reading.
+    * 2 points for attempting (not necessarily succeeding) to engage every member of the class. 
+    * 2 points for creativity and leadership in bringing the class to a deeper understanding of the topic.
+
 * Lab reports \(10%\). Each week we will experiment with web archiving tools and related technologies during lab time. You will be required to submit a brief lab report with the results of the in-class exercises. See [Labs](labs.md) for more details.
 
 ## Paper 1: Your Personal Archive \(10%\)

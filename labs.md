@@ -111,3 +111,5 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 * Relation - are there related resources?
 * Coverage - spatial or temporal
 * Rights - Information about rights held in and over the resource, usually copyright.
+
+## Lab 5 // Digital Objects

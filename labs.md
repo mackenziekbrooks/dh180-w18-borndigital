@@ -112,4 +112,34 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 * Coverage - spatial or temporal
 * Rights - Information about rights held in and over the resource, usually copyright.
 
-## Lab 5 // Digital Objects
+## Lab 5 // Glitch art!
+[Glitch art](https://www.youtube.com/watch?v=gr0yiOyvas4) is a thing.
+
+1. Find an image online or on your computer and add a COPY to your Box folder. 
+2. Make a couple copies of the image so you'll have a master file to work with.
+3. In Finder or File Explorer, change the file extension to ```.txt```. 
+4. Open the new ```.txt``` file in a text editor (Sublime, etc). 
+5. Don't touch the top 10% of the text. This contains the header and will break the file.
+6. Otherwise, go ahead and delete text, move it around, copy and paste, add new text, find and replace characters, etc. 
+7. Save the file, then go back to the Finder and change the extension back to the original file time. Open the image now - what do you see? 
+8. Make another piece of glitch art. This time, can you save a secret message in the image? 
+
+[Image Glitch Tool](https://snorpey.github.io/jpg-glitch/) | [Tutorial on Databending and Glitch Art](https://critiquecollective.com/2014/03/13/tutorial-on-databending-and-glitch-art/)
+
+## Lab 6 // File types
+Let's get to know the types of files that make up our every day digital lives. You'll work in small groups to do some research on the files that make up the following topics: 
+
+1. Video (Youtube, Netflix, iMovie, Instagram, etc)
+2. Gaming (console or web-based)
+3. Images (JPG, GIF, BMP, PNG)
+4. Music (MP3, OGG, WAV)
+5. Cryptocurrency? PDF? 
+
+* Conduct a basic **inventory** of the types of files that are used in your topic. 
+* Which files types are open and which are proprietary? 
+* What software do you need to open those files? 
+* Can you download the files? Can you edit them? 
+* Are the files raw/loss-less or compressed?
+* 
+
+

@@ -84,7 +84,7 @@ Scholars' Lab has a great [tutorial](http://praxis.scholarslab.org/resources/bas
 3. Save as lab3.txt in Box.
 
 
-## Lab 4 
+## Lab 4 // Metadata! // January 25
 Time to practice writing metadata! I will bring a selection of physical and digital objects for you to describe. 
 
 1. Open this [form](https://docs.google.com/forms/d/e/1FAIpQLSfKjQnI9kcDheU7-d7kDV2Hf_scm6KrUkiNP59ykD8oqlgz_A/viewform?usp=sf_link). 
@@ -112,7 +112,7 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 * Coverage - spatial or temporal
 * Rights - Information about rights held in and over the resource, usually copyright.
 
-## Lab 5 // Glitch art!
+## Lab 5 // Glitch art! // February 8
 [Glitch art](https://www.youtube.com/watch?v=gr0yiOyvas4) is a thing.
 
 1. Find an image online or on your computer and add a COPY to your Box folder. 
@@ -130,7 +130,7 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 Two pieces of glitch art in your Box folder.
 
 
-## Lab 6 // File types
+## Lab 6 // File types // February 8
 Let's get to know the types of files that make up our every day digital lives. You'll work in small groups to do some research on the files that make up the following topics. It is okay to consult Wikipedia and other web-based sources, but keep a critical eye.  
 
 1. Video (Youtube, Netflix, iMovie, Instagram, etc)

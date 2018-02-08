@@ -129,21 +129,26 @@ Lab report: two pieces of glitch art in your Box folder.
 [Image Glitch Tool](https://snorpey.github.io/jpg-glitch/) | [Tutorial on Databending and Glitch Art](https://critiquecollective.com/2014/03/13/tutorial-on-databending-and-glitch-art/)
 
 ## Lab 6 // File types
-Let's get to know the types of files that make up our every day digital lives. You'll work in small groups to do some research on the files that make up the following topics: 
+Let's get to know the types of files that make up our every day digital lives. You'll work in small groups to do some research on the files that make up the following topics. It is okay to consult Wikipedia and other web-based sources, but keep a critical eye.  
 
 1. Video (Youtube, Netflix, iMovie, Instagram, etc)
 2. Gaming (console or web-based)
 3. Images (JPG, GIF, BMP, PNG)
 4. Music (MP3, OGG, WAV)
-5. Cryptocurrency? PDF? 
+5. Text (PDF, Word doc, .txt, etc) 
 
-* Conduct a basic **inventory** of the types of files that are used in your topic. 
+
+* First, how do you interact with these types of files in your daily life? On what devices? Discuss. 
+* Conduct a basic **inventory** of the types of files that are used in your topic. Be specific, what are the file extensions? 
 * Which files types are open and which are proprietary? 
-* What software do you need to open those files? 
+* What software do you need to open those files? Does that software cost money? What would happen if the owning company went away?
 * Can you download the files? Can you edit them? Or are they locked in a container?
+* Can you create glitch art with them?
 * Are the files raw/loss-less or compressed?
-* 
+* How much space does the average file take up? 
+* Have these file types evolved over time? 
 
+Lab report: create a shared doc in Box/docs-dh180 to collect your findings. 
 
 
 

@@ -149,6 +149,7 @@ Let's get to know the types of files that make up our every day digital lives. Y
 * Are the files raw/loss-less or compressed?
 * How much space does the average file take up? 
 * Have these file types evolved over time? 
+* Remember Owens? Can you find examples of 1) informational 2) artefactual or 3) folkloric file types? 
 
 ### Lab report
 Create a shared doc in Box/docs-dh180 to collect your findings. 

@@ -130,7 +130,6 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 Two pieces of glitch art in your Box folder.
 
 
-
 ## Lab 6 // File types
 Let's get to know the types of files that make up our every day digital lives. You'll work in small groups to do some research on the files that make up the following topics. It is okay to consult Wikipedia and other web-based sources, but keep a critical eye.  
 

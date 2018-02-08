@@ -51,7 +51,7 @@ See some basic CSS at the [W3 Schools CSS tutorial](http://www.w3schools.com/css
 ### Lab Report
 All your HTML and CSS documents should be saved to Box by class time on Thursday the 11th. 
 
-## Lab 3: Command line 
+## Lab 3 // Command line 
 Most of us interact with our computers or phones through highly visual interfaces. We know what button to press because of the stylized image representing it. We understand what it means when a website has a blue "f" or when a friend sends a thumbs-up emoji. Your computer, regardless of operating system, wants to interact with you via visual cues. We call these Graphical User Interfaces aka GUI (pronounced gooey).
 
 But there's another way. You can interact with your computer entirely via text commands through something called a Command Line Interface or CLI. When you see a hacker typing green text into a black box in a movie, they're using the command line. But the command line isn't just for hacking.
@@ -124,9 +124,12 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 7. Save the file, then go back to the Finder and change the extension back to the original file time. Open the image now - what do you see? 
 8. Make another piece of glitch art. This time, can you save a secret message in the image? 
 
-Lab report: two pieces of glitch art in your Box folder.
-
 [Image Glitch Tool](https://snorpey.github.io/jpg-glitch/) | [Tutorial on Databending and Glitch Art](https://critiquecollective.com/2014/03/13/tutorial-on-databending-and-glitch-art/)
+
+### Lab Report
+Two pieces of glitch art in your Box folder.
+
+
 
 ## Lab 6 // File types
 Let's get to know the types of files that make up our every day digital lives. You'll work in small groups to do some research on the files that make up the following topics. It is okay to consult Wikipedia and other web-based sources, but keep a critical eye.  
@@ -148,7 +151,8 @@ Let's get to know the types of files that make up our every day digital lives. Y
 * How much space does the average file take up? 
 * Have these file types evolved over time? 
 
-Lab report: create a shared doc in Box/docs-dh180 to collect your findings. 
+### Lab report
+Create a shared doc in Box/docs-dh180 to collect your findings. 
 
 
 

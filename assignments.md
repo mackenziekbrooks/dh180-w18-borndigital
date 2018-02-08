@@ -60,9 +60,13 @@ You should address the following questions \(.5 points each\):
 
 ## Born Digital Archive Project \(50%\)
 
-### Annotated Bibliography
+### Annotated Bibliography (10%)
 
-Born digital archives annotated bibliography. Review 4-5 existing born digital archives through the lens of your chosen discipline. Annotations should be a substantial paragraph and follow the citation style of your discipline.
+It's time to start preparing to create your own web archives. The first step is to survey the web to see what might already exist on your topic of interest. Additionally, you will be asked to find 1-2 scholarly articles that help add context to the collections you've chosen. You are encouraged to select a disciplinary lens from which to view your topic. Are a historian of games? A philosopher? A literary historian? An art historian?  
+
+Here's how it works:
+1. Start with a citation for the collection/source. Format it according to the citation style of your chosen discipline.
+2. 1-2 paragraphs of summary, but mostly analysis.  
 
 ### Proposal
 

@@ -132,6 +132,7 @@ Read for Thursday:
 ### Thursday, February 15, 2018
 
 * Lab: Library research and resource evaluation session
+* Project overview 
 
 Read for Tuesday after break:
 

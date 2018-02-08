@@ -124,6 +124,8 @@ Time to practice writing metadata! I will bring a selection of physical and digi
 7. Save the file, then go back to the Finder and change the extension back to the original file time. Open the image now - what do you see? 
 8. Make another piece of glitch art. This time, can you save a secret message in the image? 
 
+Lab report: two pieces of glitch art in your Box folder.
+
 [Image Glitch Tool](https://snorpey.github.io/jpg-glitch/) | [Tutorial on Databending and Glitch Art](https://critiquecollective.com/2014/03/13/tutorial-on-databending-and-glitch-art/)
 
 ## Lab 6 // File types
@@ -138,8 +140,9 @@ Let's get to know the types of files that make up our every day digital lives. Y
 * Conduct a basic **inventory** of the types of files that are used in your topic. 
 * Which files types are open and which are proprietary? 
 * What software do you need to open those files? 
-* Can you download the files? Can you edit them? 
+* Can you download the files? Can you edit them? Or are they locked in a container?
 * Are the files raw/loss-less or compressed?
 * 
+
 
 

@@ -38,8 +38,6 @@ Most readings will be available online through the library’s subscriptions or 
 
 Brügger, Niels, and Ralph Schroeder. _The Web as History: Using Web Archives to Understand  the Past and the Present_. UCL Press, 2017, http://discovery.ucl.ac.uk/1542998/1/The-Web-as-History.pdf.
 
-Klosterman, Chuck. _But What If We’re Wrong?: Thinking about the Present as If It Were the Past_. Blue Rider Press, 2017.
-
 Owens, Trevor. _Theory and Craft of Digital Preservation_. Johns Hopkins University Press, forthcoming. https://osf.io/preprints/lissa/5cpjt
 
 Rumsey, Abby Smith. When We Are No More. Bloomsbury Press, 2016. (purchase required)

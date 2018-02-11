@@ -118,7 +118,7 @@ Read for Tuesday:
 * Owens, chap 4
 * Rumsey, chap 9
 * Brügger, chap 7 (as example of analysis of web archives)
-* Student choice: 
+* Student choice: https://www.oclc.org/content/dam/research/activities/hiddencollections/borndigital.pdf
 
 ## Week 6: What makes a born digital collection?
 

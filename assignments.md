@@ -62,11 +62,31 @@ You should address the following questions \(.5 points each\):
 
 ### Annotated Bibliography (10%)
 
-It's time to start preparing to create your own web archives. The first step is to survey the web to see what might already exist on your topic of interest. Additionally, you will be asked to find 1-2 scholarly articles that help add context to the collections you've chosen. You are encouraged to select a disciplinary lens from which to view your topic. Are a historian of games? A philosopher? A literary historian? An art historian?  
+It's time to start preparing to create your own web archives. The first step is to survey the web to see what might already exist on your topic of interest. What collections are already out there? Are there gaps? Updates needed? Can you take inspiration from an existing collection? 
+
+Remember, you're looking for 4-5 collections of born digital materials (not necessarily material that has been digitized from print). Usually this takes the form of collections of captured websites. Additionally, you will be asked to find 1-2 scholarly articles that help add context to the collections you've chosen. You are encouraged to select a disciplinary lens from which to view your topic. Are a historian of games? A philosopher? A literary historian? An art historian?
+
 
 Here's how it works:
-1. Start with a citation for the collection/source. Format it according to the citation style of your chosen discipline.
-2. 1-2 paragraphs of summary, but mostly analysis.  
+1. Browse the web, starting with the places listed below, looking for web archives. You don't have to have a clear idea of your topic yet, but you should have some inkling. 
+2. Make a list of all the sites/collections/articles you find that seem interesting. 
+3. From that list, select 4-5 web archives and 1-2 scholarly sources. Minimum of six sources.
+4. Start with a citation for the collection/source. Format it according to MLA 8 or the citation style of your selected discipline. 
+5. Write 1-2 paragraphs of summary, assessment, and reflection. See the [Purdue OWL guide](https://owl.english.purdue.edu/owl/resource/614/01/) for good guidelines on the content of your annotated bibliography.
+
+
+Places to start your research: 
+* [Internet Archive](https://archive.org/)
+* [Archive-it](https://archive-it.org/)
+* [Smithsonian](https://www.si.edu/)
+* [Library of Congress](https://www.loc.gov/collections/)
+
+Point breakdown: 
+* 1 point for on-time delivery of assignment. Save to your Box folder.
+* 1 point for appropriate filename (no spaces, includes last name, includes date, includes assignment identifier). 
+* 1 point for appropriate length and formatting (1-2 paragraph annotations, MLA 8 or other, 1 inch margins, double-spaced, 12 point font).
+* 1 point for absence of major typos, grammatical errors, and unclear writing.
+* 1 point for every annotation that includes a BRIEF summary, a thoughtful analysis of the of the source, and a comment on the usefulness for your project. (6 points)
 
 ### Proposal
 

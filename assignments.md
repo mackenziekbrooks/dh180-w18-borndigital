@@ -90,7 +90,7 @@ Point breakdown:
 
 ### Proposal
 
-In one page, describe the topic and goals of the born digital archive you wish to build. What websites or other content do you wish to include? How will it be useful to future scholars? What permissions or privacy concerns do you need to consider? What web archiving applications will you use? How will you make the collection accessible?
+In 1-2 pages, describe the topic and goals of the born digital archive you wish to build. What websites or other content do you wish to include? How will it be useful to future scholars? What permissions or privacy concerns do you need to consider? What web archiving applications will you use? How will you make the collection accessible?
 
 ### Born digital archives creation
 

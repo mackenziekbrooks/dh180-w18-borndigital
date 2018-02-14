@@ -155,5 +155,20 @@ Let's get to know the types of files that make up our every day digital lives. Y
 Create a shared doc in Box/docs-dh180 to collect your findings. 
 
 
+## Lab 7 // Born Digital Collections // February 15
+Time to actually look at some born digital collections! In groups, select one of the following:
+
+* [Internet Archive](https://archive.org/)
+* [Archive-it](https://archive-it.org)
+* [Smithsonian](https://www.si.edu)
+* [Library of Congress](https://www.loc.gov/collections/)
+* [DocNow](http://docnow.io/)
+
+1. First things first, tell me about the institution/group. Who are they? Or, who do they represent? 
+2. Can you find the born digital collections? How easy was it? Do they use different terminology? 
+3. What is their collection scope? That is, what type of topics do they cover? In what format? 
+4. Can you find anything about their preservation strategy? 
+5. What about METADATA? How well are the collections described? How easy is it figure out what the collection is about? 
+6. Which collections do you find most interesting? Useful? Surprising? 
 
 

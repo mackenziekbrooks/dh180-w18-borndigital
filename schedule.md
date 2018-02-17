@@ -134,6 +134,7 @@ Read for Thursday:
 * Lab: Library research and resource evaluation session
 * Project overview 
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day12.html)
+* [Library Research FAQ slides](http://mackenziekbrooks.info/slides/slides-library-research-faq.html)
 
 Read for Tuesday after break:
 

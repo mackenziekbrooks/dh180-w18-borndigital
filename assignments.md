@@ -88,13 +88,30 @@ Point breakdown:
 * 1 point for absence of major typos, grammatical errors, and unclear writing.
 * 1 point for every annotation that includes a BRIEF summary, a thoughtful analysis of the of the source, and a comment on the usefulness for your project. (6 points)
 
-### Proposal
+### Proposal (10%)
 
-In 1-2 pages, describe the topic and goals of the born digital archive you wish to build. What websites or other content do you wish to include? How will it be useful to future scholars? What permissions or privacy concerns do you need to consider? What web archiving applications will you use? How will you make the collection accessible?
+In 2 pages, propose a topic for your web archives project. Your proposal should introduce the topic, survey its web presence, provide justification for preservation, and include a preliminary list of URLs for archiving. You should reference the research conducted in your annotated bibliography. As a reminder, your project will live on in perpetuity on the publicly accessible Archive-It website. This is your chance to add something to the historical record! 
 
-### Born digital archives creation
 
-Using the tools we have learned in class \(Archive-it, Twarc, or others\), create a focused archive of born digital content. The final product will vary depending on your topic, but it should include: 1\) the digital files you are preserving 2\) documentation on how to use the archive 3\) potential research questions or example queries 4\) thorough metadata 5\) attribution to content creators and 6\) a plan for the continual preservation of the archives. Portions of this project will be completed during lab time.
+* 1 point for on-time delivery of assignment. Save to your Box folder.
+* 1 point for appropriate filename (no spaces, includes last name, includes date, includes assignment identifier). 
+* 1 point for appropriate length and formatting (MLA 8 or other, 1 inch margins, double-spaced, 12 point font).
+* 1 point for absence of major typos, grammatical errors, and unclear writing.
+* 2 points for a thorough introduction to your chosen topic. What is the event, subculture, fandom, collection, piece of culture that you wish to preserve? How does that topic manifest itself on the web? How dynamic are the websites?  
+* 2 points for justification for preservation. What makes this topic worth preserving? Who is your audience? What type of researchers will find it useful in the future? What are some potential research questions that this collection/topic could answer?
+* 2 points for preliminary list of URLs. Write a sentence or two about your selection. Why this site? Any potential challenges like dynamic content or media? Do your foresee any privacy, copyright, or ethical issues? 
+
+
+### Web archives creation (20%)
+
+Using the [Archive-It platform](https://archive-it.org), you will create a collection of web content. Archive-It is a service that many institutions use to capture web content for themselves and anyone browsing the site. Working with Archive-It is a process that we will explore for the last half of the course. In addition to the live training we will receive on March 8th, you will be expected to consult the documentation and video curriculum. 
+
+Specs:
+* You are limited to a data budget of 8GB per person. 
+* You should plan to capture approximately 10 websites (seeds). I am flexible on the quantity if you can provide justification for more/fewer. 
+* You are expected to conduct test crawls of your chosen sites and perform quality assurance. This takes time! Plan accordingly. (It took 45 minutes to crawl 5MB of one website)
+* You are expected to compose relevant metadata for your collection. 
+
 
 ### Project reflection
 

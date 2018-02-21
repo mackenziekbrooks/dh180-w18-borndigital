@@ -169,6 +169,8 @@ Time to actually look at some born digital collections! In groups, select one of
 3. What is their collection scope? That is, what type of topics do they cover? In what format? 
 4. Can you find anything about their preservation strategy? 
 5. What about METADATA? How well are the collections described? How easy is it figure out what the collection is about? 
-6. Which collections do you find most interesting? Useful? Surprising? 
+6. What is the copyright situation? Can you find a rights statement?
+7. Which collections do you find most interesting? Useful? Surprising? 
+
 
 

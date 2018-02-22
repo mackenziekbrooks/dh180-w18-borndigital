@@ -140,6 +140,8 @@ Read for Tuesday after break:
 
 * DM, Alexandra. “Opportunities for Making Appraisal Transparent When Documenting the Now.” Documenting DocNow, 14 June 2017, [https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39](https://news.docnow.io/opportunities-for-making-appraisal-transparent-when-documenting-the-now-10b807606d39).
 * Owens, chap 6.
+* We're All Bona Fide: https://medium.com/on-archivy/were-all-bona-fide-f502bdaea029
+* Library of Congress White Paper: https://blogs.loc.gov/loc/files/2017/12/2017dec_twitter_white-paper.pdf
 
 
 _** Washington Break **_

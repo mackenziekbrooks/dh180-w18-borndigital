@@ -72,7 +72,7 @@ Here's how it works:
 2. Make a list of all the sites/collections/articles you find that seem interesting. 
 3. From that list, select 4-5 web archives and 1-2 scholarly sources. Minimum of six sources.
 4. Start with a citation for the collection/source. Format it according to MLA 8 or the citation style of your selected discipline. 
-5. Write 1-2 paragraphs of summary, assessment, and reflection. See the [Purdue OWL guide](https://owl.english.purdue.edu/owl/resource/614/01/) for good guidelines on the content of your annotated bibliography.
+5. Write 1-2 paragraphs of summary, assessment, and reflection for each source. See the [Purdue OWL guide](https://owl.english.purdue.edu/owl/resource/614/01/) for good guidelines on the content of your annotated bibliography.
 
 
 Places to start your research: 

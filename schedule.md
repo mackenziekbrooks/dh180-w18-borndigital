@@ -154,6 +154,7 @@ _** Washington Break **_
 Read for Thursday:
 * Cook, Terry. “Remembering the Future: Appraisal of Records and the Role of Archives in Constructing Social Memory.” Archives, Documentation, and Institutions of Social Memory: Essays from the Sawyer Seminar, University of Michigan Press, 2006, [https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063318805;view=1up;seq=179;size=125).
 * Owens, chap 6.
+* Student choice: http://www.emeraldinsight.com/doi/full/10.1108/10650750310508108
 
 
 ### Thursday, March 1, 2018

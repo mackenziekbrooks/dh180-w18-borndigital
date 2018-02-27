@@ -172,5 +172,10 @@ Time to actually look at some born digital collections! In groups, select one of
 6. What is the copyright situation? Can you find a rights statement?
 7. Which collections do you find most interesting? Useful? Surprising? 
 
+## Lab 8 // Twarc with Alyssa Collins
+
+* [Worksheet](https://docs.google.com/document/d/1UAe1EzoU2HN8zQCIeikZPGTYPwGfTXXTIuxMa5c0W1M/edit?usp=sharing)
+* [Twarc](http://github.com/docnow/twarc)
+
 
 

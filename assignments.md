@@ -97,7 +97,7 @@ In 2 pages, propose a topic for your web archives project. Your proposal should 
 * 1 point for appropriate filename (no spaces, includes last name, includes date, includes assignment identifier). 
 * 1 point for appropriate length and formatting (MLA 8 or other, 1 inch margins, double-spaced, 12 point font).
 * 1 point for absence of major typos, grammatical errors, and unclear writing.
-* 2 points for a thorough introduction to your chosen topic. What is the event, subculture, fandom, collection, piece of culture that you wish to preserve? How does that topic manifest itself on the web? How dynamic are the websites?  
+* 2 points for a thorough introduction to your chosen topic. What is the event, subculture, fandom, collection, piece of culture that you wish to preserve? How does that topic manifest itself on the web? How dynamic are the websites? As Owens says, what are the "significant properties?"  
 * 2 points for justification for preservation. What makes this topic worth preserving? Who is your audience? What type of researchers will find it useful in the future? What are some potential research questions that this collection/topic could answer?
 * 2 points for preliminary list of URLs. Write a sentence or two about your selection. Why this site? Any potential challenges like dynamic content or media? Do your foresee any privacy, copyright, or ethical issues? 
 

@@ -168,7 +168,7 @@ Read for Tuesday:
 * Bailey, Jefferson. “Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives - Archive Journal.” Archive Journal, June 2013, [http://www.archivejournal.net/?p=4722](http://www.archivejournal.net/?p=4722).
 
 
-## Week 8: Respect des fonds, provenance, original order
+## Week 8: Respect des fonds, provenance, original order (ethics cont.)
 
 ### Tuesday, March 6, 2018
 

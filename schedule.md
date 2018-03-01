@@ -199,7 +199,7 @@ Read for Tuesday:
 
 ### Thursday, March 15, 2018
 
-Lab: Metadata, data cleanup
+Lab: project work (metadata?)
 
 Read for Tuesday:
 

@@ -166,7 +166,8 @@ Read for Tuesday:
 * Jules, Bergis. “Some Thoughts on Ethics and DocNow.” Documenting DocNow, 3 June 2016, [https://news.docnow.io/some-thoughts-on-ethics-and-docnow-d19cfec427f2](https://news.docnow.io/some-thoughts-on-ethics-and-docnow-d19cfec427f2).
 * Kirschenbaum, Matthew. Digital Forensics and Born-Digital Content in Cultural Heritage Collections. 149, Council on Library and Information Resources, 2010, [https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf](https://www.clir.org/pubs/reports/reports/pub149/pub149.pdf). \(Chap. 3\)
 * Bailey, Jefferson. “Disrespect Des Fonds: Rethinking Arrangement and Description in Born-Digital Archives - Archive Journal.” Archive Journal, June 2013, [http://www.archivejournal.net/?p=4722](http://www.archivejournal.net/?p=4722).
-
+* https://www.npr.org/sections/thetwo-way/2018/02/28/589411543/google-received-650-000-right-to-be-forgotten-requests-since-2014
+* https://www.blog.google/topics/google-europe/updating-our-right-be-forgotten-transparency-report/
 
 ## Week 8: Respect des fonds, provenance, original order (ethics cont.)
 

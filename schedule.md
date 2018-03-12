@@ -227,7 +227,7 @@ Discussion, student led
 
 ### Thursday, March 22, 2018
 
-* Monia Blair visits
+* Monia Blair (UVA) visits
 * Lab: project work 
 
 

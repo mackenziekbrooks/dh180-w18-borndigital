@@ -210,7 +210,7 @@ Read for Tuesday:
 
 ### Thursday, March 15, 2018
 
-Lab: project work (metadata?)
+Lab: project work 
 
 Read for Tuesday:
 
@@ -244,8 +244,7 @@ Discussion, student led
 
 ### Thursday, March 29, 2018
 
-Lab: web publishing  
-
+Lab: metadata
 
 ## Week 12: Conclusion
 

@@ -183,14 +183,24 @@ Read for Tuesday:
 
 Read for Tuesday:
 
+**Required**
+
+* Student choices: https://www.archives.gov/research/alic/reference/archives-resources/principles-of-arrangement.html and https://www.poynter.org/news/how-use-tweetdeck-and-advanced-search-make-twitter-useful-again
+
+* Owens, chap 8.
+
+* Drake, Jarrett M. “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description.” Medium, 6 Apr. 2016, [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325\#.8a5icd8uw](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325#.8a5icd8uw). (Concentrat on second half) 
+
+
+** Optional **
+
 * Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, Dec. 2013, pp. 661–688.
 
 * Light, Michelle, and Tom Hyry. “Colophons and Annotations: New Directions for the Finding Aid.” The American Archivist, vol. 65, no. 2, 2002, pp. 216–230.
 
-* Drake, Jarrett M. “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description.” Medium, 6 Apr. 2016, [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325\#.8a5icd8uw](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325#.8a5icd8uw).
 
 
-* Owens, chap 8.
+
 
 ## Week 9: Arrangement & description
 

@@ -112,12 +112,14 @@ Specs:
 * You are expected to conduct test crawls of your chosen sites and perform quality assurance. This takes time! Plan accordingly. (It took 45 minutes to crawl 5MB of one website)
 * You are expected to compose relevant metadata for your collection. 
 
+* 
 
-### Project reflection
+
+### Project reflection (5%)
 
 In 2-3 pages, reflect on your experience in this course, including any changed perceptions or behaviors relating to your own archival record. Are you going to save your tweets or delete them? Are there steps you can take to document and preserve the communities around you? How has your relationship with technology changed?
 
-### Presentation
+### Presentation (5%)
 
 Each student will be asked to give a 10 minute presentation on their born digital archive.
 

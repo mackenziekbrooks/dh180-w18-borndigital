@@ -107,12 +107,19 @@ In 2 pages, propose a topic for your web archives project. Your proposal should 
 Using the [Archive-It platform](https://archive-it.org), you will create a collection of web content. Archive-It is a service that many institutions use to capture web content for themselves and anyone browsing the site. Working with Archive-It is a process that we will explore for the last half of the course. In addition to the live training we will receive on March 8th, you will be expected to consult the documentation and video curriculum. 
 
 Specs:
-* You are limited to a data budget of 8GB per person. 
-* You should plan to capture approximately 10 websites (seeds). I am flexible on the quantity if you can provide justification for more/fewer. 
+* You are limited to a data budget of 8GB per person.
+* You should plan to capture approximately 10 websites (seeds). I am flexible on the quantity if you can provide justification for more/fewer.
 * You are expected to conduct test crawls of your chosen sites and perform quality assurance. This takes time! Plan accordingly. (It took 45 minutes to crawl 5MB of one website)
-* You are expected to compose relevant metadata for your collection. 
+* You are expected to compose relevant Dublin Core metadata for your individual sites and whole collection.
+* You will turn a report of your activities in the Archive-It platform to your Box folder. The report should document your work on each site with the following:  
+	* Why this site? What's the context? Did you learn anything new about it through the capture process?
+	* Scoping rules applied. 
+	* QA work - What worked? What didn't? What surprised you? What steps did you take to improve the capture?
+	* Frequency - Ideally, how often should this site be captured? 
+* You will earn approximately 2 points per site - 1 for thorough metadata and 1 for the report content. 
 
-* 
+**The completed project is due 4/6 by 5pm.** 
+
 
 
 ### Project reflection (5%)

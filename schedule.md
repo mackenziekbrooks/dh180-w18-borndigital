@@ -189,7 +189,7 @@ Read for Tuesday:
 
 * Owens, chap 8.
 
-* Drake, Jarrett M. “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description.” Medium, 6 Apr. 2016, [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325\#.8a5icd8uw](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325#.8a5icd8uw). (Concentrat on second half) 
+* Drake, Jarrett M. “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description.” Medium, 6 Apr. 2016, [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325\#.8a5icd8uw](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325#.8a5icd8uw). (Concentrate on second half) 
 
 
 ** Optional **

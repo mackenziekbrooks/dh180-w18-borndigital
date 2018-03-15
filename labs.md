@@ -178,7 +178,7 @@ Time to actually look at some born digital collections! In groups, select one of
 * [Twarc](http://github.com/docnow/twarc)
 * Lab Report: save a copy of the Worksheet to our saved Box folder. Also save your HTML to your Box folder. 
 
-## Lab 9 // March 15
+## Lab 9 // Project work // March 15
 * For one of your seeds, practice adding metadata. You'll be writing Dublin Core, which is the same standard we used in our first metadata activity. 
 * You can find instructions here: https://support.archive-it.org/hc/en-us/articles/208332603-Add-edit-and-manage-your-metadata
 * If you're unsure what to put in a field, add your question to the Boxnote "Metadata Questions." I'll use this list to help find answers and to develop shared standards. 

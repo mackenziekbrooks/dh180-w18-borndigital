@@ -178,6 +178,14 @@ Time to actually look at some born digital collections! In groups, select one of
 * [Twarc](http://github.com/docnow/twarc)
 * Lab Report: save a copy of the Worksheet to our saved Box folder. Also save your HTML to your Box folder. 
 
-## Lab 9 // 
+## Lab 9 // March 15
+* For one of your seeds, practice adding metadata. You'll be writing Dublin Core, which is the same standard we used in our first metadata activity. 
+* You can find instructions here: https://support.archive-it.org/hc/en-us/articles/208332603-Add-edit-and-manage-your-metadata
+* If you're unsure what to put in a field, add your question to the Boxnote "Metadata Questions." I'll use this list to help find answers and to develop shared standards. 
+* Feel free to consult other sites/collections on Archive-it to see examples.
+* Insert a link to the seed metadata on the Boxnote so I know what you worked on as your lab report. The format should look like this: https://partner.archive-it.org/1374/collections/10166/seeds/1537635/metadata
+* I would also recommend working on your collection level metadata. You get to pick a picture! 
+
+
 
 

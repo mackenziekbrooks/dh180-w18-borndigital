@@ -220,6 +220,11 @@ Read for Tuesday:
 
 * Pinsent, Ed. Conference on Web-Archiving, Part 2: Ian Milligan and His Derived Datasets. [https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets](https://blog.cosector.com/conference-on-web-archiving-part-2-ian-milligan-and-his-derived-datasets).
 
+* Student choice: 
+    * http://www.ala.org/advocacy/intfreedom/librarybill/interpretations/accessdigital
+    * https://www.dpconline.org/handbook/organisational-activities/access
+    * https://www2.archivists.org/sites/all/files/Module_16_CaseStudy3_MaxEckard.pdf
+
 ## Week 10: Access
 
 ### Tuesday, March 20, 2018

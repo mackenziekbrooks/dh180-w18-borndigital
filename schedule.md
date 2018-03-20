@@ -229,6 +229,8 @@ Read for Tuesday:
 
 ### Tuesday, March 20, 2018
 Discussion, student led
+* * [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day20.html)
+
 
 ### Thursday, March 22, 2018
 

@@ -254,7 +254,7 @@ Discussion, student led
 
 ### Thursday, March 29, 2018
 
-Lab: metadata
+Lab: metadata + project work 
 
 ## Week 12: Conclusion
 
@@ -263,5 +263,7 @@ Presentations
 ### Thursday, April 5, 2018
 Presentations
 
-**Reflection due**
+**Project due 4/6 at 5pm **
+
+**Reflection due 4/13 at 5pm **
 

@@ -124,8 +124,12 @@ Specs:
 
 ### Project reflection (5%)
 
-In 2-3 pages, reflect on your experience in this course, including any changed perceptions or behaviors relating to the Internet, technology, and the archival record. Address the following: 
-* 
+In 3-4 pages, reflect on your experience in this course, including any changed perceptions or behaviors relating to the Internet, technology, and the archival record. Address the following: 
+* How has your relationship with your personal archive changed? 
+* How was working with the Archive-It platform or other technologies in the course? What was challenging? What was worthwhile?
+* What have you learned about archival principles and digital preservation? What do your classmates, friends, parents need to know? 
+* What would you say are the major ethical challenges of born digital archive? 
+* Finally, make a prediction. As a digital native, where you think technology will be 
 
 own archival record. Are you going to save your tweets or delete them? Are there steps you can take to document and preserve the communities around you? How has your relationship with technology changed?
 

@@ -118,13 +118,18 @@ Specs:
 	* Frequency - Ideally, how often should this site be captured? 
 * You will earn approximately 2 points per site - 1 for thorough metadata and 1 for the report content. 
 
-**The completed project is due 4/6 by 5pm.** 
+**The completed project is due 4/6 by 5pm.** Save your report to your Box folder and make sure your Archive-It collection is public.
 
 
 
 ### Project reflection (5%)
 
-In 2-3 pages, reflect on your experience in this course, including any changed perceptions or behaviors relating to your own archival record. Are you going to save your tweets or delete them? Are there steps you can take to document and preserve the communities around you? How has your relationship with technology changed?
+In 2-3 pages, reflect on your experience in this course, including any changed perceptions or behaviors relating to the Internet, technology, and the archival record. Address the following: 
+* 
+
+own archival record. Are you going to save your tweets or delete them? Are there steps you can take to document and preserve the communities around you? How has your relationship with technology changed?
+
+**Reflection due 4/13 by 5pm.** 
 
 ### Presentation (5%)
 

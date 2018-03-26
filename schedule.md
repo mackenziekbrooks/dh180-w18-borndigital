@@ -242,6 +242,9 @@ Read for Tuesday:
 
 * Brügger, chap 12.
 * Rumsey, chap 10.
+* Student choice: 
+    * https://publictechnology.net/articles/news/national-archives-sets-out-two-year-plan-ensure-digital-future
+    * https://natlib.govt.nz/blog/posts/the-digital-archive-of-the-future
 
 
 ## Week 11: Outreach & the future of born digital archives

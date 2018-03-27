@@ -255,7 +255,6 @@ Read for Tuesday:
 * [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day21.html)
 
 
-
 ### Thursday, March 29, 2018
 
 Lab: metadata + project work 

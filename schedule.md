@@ -262,9 +262,10 @@ Lab: metadata + project work
 ## Week 12: Conclusion
 
 ### Tuesday, April 3, 2018
-Presentations
+Presentations (last name A-J)
+
 ### Thursday, April 5, 2018
-Presentations
+Presentations (last name K-Z)
 
 **Project due 4/6 at 5pm **
 

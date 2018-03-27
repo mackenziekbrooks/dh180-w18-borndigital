@@ -137,5 +137,21 @@ own archival record. Are you going to save your tweets or delete them? Are there
 
 ### Presentation (5%)
 
-Each student will be asked to give a 10 minute presentation on their born digital archive.
+You will have 10 minutes to share your project with the class and to generate discussion/feedback on your work so far. Since projects are not yet due, this presentation will serve as a final review of your work. 
 
+Spend 5 minutes on the following: 
+* Introducing your topic and your motivations
+* Brief overview of the sites you selected
+* Most exciting vs. most challenging or frustrating aspect of the project 
+
+Spend 5 minutes on the following:
+* Come up with a question for your audience. What aspect of your project would you like feedback on? Does your metadata need help? Maybe your crawl turned out wonky? Can someone else identify a gap in your archive? Are there ethical issues you are concerned about? 
+
+Specs: 
+* 1 point for evidence of preparation
+* 1 point for a concise, time-aware presentation
+* 1 point for a cogent summary and overview
+* 1 point for identifying a relevant question for your audience
+* 1 point for participating in other students' presentations. 
+
+**Last name A-J presents 4/3; Last name K-Z presents 4/5.**

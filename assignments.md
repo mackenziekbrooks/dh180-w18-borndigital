@@ -148,7 +148,7 @@ Spend 5 minutes on the following:
 * Come up with a question for your audience. What aspect of your project would you like feedback on? Does your metadata need help? Maybe your crawl turned out wonky? Can someone else identify a gap in your archive? Are there ethical issues you are concerned about? 
 
 Specs: 
-* 1 point for evidence of preparation
+* 1 point for evidence of preparation (for your own presentation + reviewing other students' archives)
 * 1 point for a concise, time-aware presentation
 * 1 point for a cogent summary and overview
 * 1 point for identifying a relevant question for your audience

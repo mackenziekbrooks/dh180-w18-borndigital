@@ -228,8 +228,8 @@ Read for Tuesday:
 ## Week 10: Access
 
 ### Tuesday, March 20, 2018
-Discussion, student led
-* * [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day20.html)
+* Discussion, student led
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day20.html)
 
 
 ### Thursday, March 22, 2018
@@ -251,7 +251,10 @@ Read for Tuesday:
 ## Week 11: Outreach & the future of born digital archives
 
 ### Tuesday, March 27, 2018
-Discussion, student led
+* Discussion, student led
+* [Slides](https://mackenziekbrooks.gitbooks.io/dh-180-born-digital/content/slides/dh180-w18-day21.html)
+
+
 
 ### Thursday, March 29, 2018
 

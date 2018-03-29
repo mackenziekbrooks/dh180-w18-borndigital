@@ -108,7 +108,7 @@ Using the [Archive-It platform](https://archive-it.org), you will create a colle
 
 Specs:
 * You are limited to a data budget of 8GB per person.
-* You should plan to capture approximately 10 websites (seeds). I am flexible on the quantity if you can provide justification for more/fewer.
+* You should plan to capture approximately 10 websites (seeds). I am flexible on the quantity if you can provide justification for more/fewer. Please document this in your report.
 * You are expected to conduct test crawls of your chosen sites and perform quality assurance. This takes time! Plan accordingly. (It took 45 minutes to crawl 5MB of one website)
 * You are expected to compose relevant Dublin Core metadata for your individual sites and whole collection.
 * You will turn a report of your activities in the Archive-It platform to your Box folder. The report should document your work on each site with the following:  
